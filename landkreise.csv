@@ -1,0 +1,295 @@
+﻿KrS,Landkreis,UZ,BL,Kreissitz,Einw,Flaeche,BevD
+1051,Dithmarschen,"HEI, MED", SH,Heide,133.21,"1.428,13",93
+1053,Herzogtum Lauenburg,RZ, SH,Ratzeburg,197.264,"1.263,01",156
+1054,Nordfriesland,NF, SH,Husum,165.507,"2.082,96",79
+1055,Ostholstein,OH, SH,Eutin,200.581,"1.392,55",144
+1056,Pinneberg,PI, SH,Pinneberg[FN 3],314.391,"664,28",473
+1057,Plön,PLÖ, SH,Plön,128.647,"1.083,17",119
+1058,Rendsburg-Eckernförde,"RD, ECK", SH,Rendsburg,272.775,"2.189,17",125
+1059,Schleswig-Flensburg,SL, SH,Schleswig,200.025,"2.071,14",97
+1060,Segeberg,SE, SH,Bad Segeberg,276.032,"1.344,39",205
+1061,Steinburg,IZ, SH,Itzehoe,131.347,"1.056,13",124
+1062,Stormarn,OD, SH,Bad Oldesloe,243.196,"766,33",317
+3151,Gifhorn,GF, NI,Gifhorn,175.92,"1.562,86",113
+3153,Goslar,"GS, BRL, CLZ", NI,Goslar,137.014,"965,29",142
+3154,Helmstedt,HE, NI,Helmstedt,91.307,"674,02",135
+3155,Northeim,"NOM, EIN, GAN", NI,Northeim,132.765,"1.267,08",105
+3157,Peine,PE, NI,Peine,133.965,"534,97",250
+3158,Wolfenbüttel,WF, NI,Wolfenbüttel,119.96,"722,56",166
+3159,Göttingen,"GÖ, DUD, HMÜ, OHA", NI,Göttingen,328.074,"1.753,41",187
+3241,"Hannover, Region[FN 1]",H, NI,Hannover,1.157.624,"2.290,86",505
+3251,Diepholz,"DH, SY", NI,Diepholz,216.886,"1.988,14",109
+3252,Hameln-Pyrmont,HM, NI,Hameln,148.559,"796,15",187
+3254,Hildesheim,"HI, ALF", NI,Hildesheim,276.594,"1.206,03",229
+3255,Holzminden,HOL, NI,Holzminden,70.975,"692,65",102
+3256,Nienburg/Weser,NI, NI,Nienburg/Weser,121.386,"1.398,97",87
+3257,Schaumburg,"SHG, RI", NI,Stadthagen,157.781,"675,57",234
+3351,Celle,CE, NI,Celle,178.936,"1.545,21",116
+3352,Cuxhaven,CUX, NI,Cuxhaven,198.213,"2.057,78",96
+3353,Harburg,WL, NI,Winsen (Luhe),252.776,"1.245,03",203
+3354,Lüchow-Dannenberg,DAN, NI,Lüchow (Wendland),48.424,"1.220,75",40
+3355,Lüneburg,LG, NI,Lüneburg,183.372,"1.323,68",139
+3356,Osterholz,OHZ, NI,Osterholz-Scharmbeck,113.517,"650,81",174
+3357,Rotenburg (Wümme),"ROW, BRV", NI,Rotenburg (Wümme),163.455,"2.070,45",79
+3358,Heidekreis,HK, NI,Bad Fallingbostel,139.755,"1.873,72",75
+3359,Stade,STD, NI,Stade,203.102,"1.266,02",160
+3360,Uelzen,UE, NI,Uelzen,92.572,"1.454,22",64
+3361,Verden,VER, NI,Verden (Aller),136.792,"787,97",174
+3451,Ammerland,WST, NI,Westerstede,124.071,"728,38",170
+3452,Aurich,"AUR, NOR", NI,Aurich,189.848,"1.287,31",147
+3453,Cloppenburg,CLP, NI,Cloppenburg,169.348,"1.418,45",119
+3454,Emsland,EL, NI,Meppen,325.657,"2.882,07",113
+3455,Friesland,FRI, NI,Jever,98.46,"607,91",162
+3456,Grafschaft Bentheim,NOH, NI,Nordhorn,136.511,"980,87",139
+3457,Leer,LER, NI,Leer (Ostfriesland),169.809,"1.086,01",156
+3458,Oldenburg,OL, NI,Wildeshausen,130.144,"1.063,16",122
+3459,Osnabrück,"OS, BSB, MEL, WTL", NI,Osnabrück[FN 2],357.343,"2.121,63",168
+3460,Vechta,VEC, NI,Vechta,141.598,"812,63",174
+3461,Wesermarsch,BRA, NI,Brake (Unterweser),88.624,"822,01",108
+3462,Wittmund,WTM, NI,Wittmund,56.882,"656,64",87
+5154,Kleve,"KLE, GEL", NW,Kleve,310.974,"1.232,99",252
+5158,Mettmann,ME, NW,Mettmann,485.684,"407,22",1193
+5162,Rhein-Kreis Neuss,"NE, GV", NW,Neuss,451.007,"576,52",782
+5166,Viersen,"VIE, KK", NW,Viersen,298.935,"563,28",531
+5170,Wesel,"WES, DIN, MO", NW,Wesel,459.809,"1.042,8",441
+5334,"Aachen, Städteregion[FN 1]","AC, MON", NW,Aachen,555.465,"706,95",786
+5358,Düren,"DN, JÜL, MON, SLE", NW,Düren,263.722,"941,37",280
+5362,Rhein-Erft-Kreis,BM, NW,Bergheim,470.089,"704,71",667
+5366,Euskirchen,"EU, SLE", NW,Euskirchen,192.84,"1.248,73",154
+5370,Heinsberg,"HS, ERK, GK", NW,Heinsberg,254.322,"627,99",405
+5374,Oberbergischer Kreis,GM, NW,Gummersbach,272.471,"918,84",297
+5378,Rheinisch-Bergischer Kreis,GL, NW,Bergisch Gladbach,283.455,"437,32",648
+5382,Rhein-Sieg-Kreis,SU, NW,Siegburg,599.78,"1.153,21",520
+5554,Borken,"BOR, AH, BOH", NW,Borken,370.676,"1.420,98",261
+5558,Coesfeld,"COE, LH", NW,Coesfeld,219.929,"1.112,04",198
+5562,Recklinghausen,"RE, CAS, GLA", NW,Recklinghausen,615.261,"761,31",808
+5566,Steinfurt,"ST, BF, TE", NW,Steinfurt,447.614,"1.795,76",249
+5570,Warendorf,"WAF, BE", NW,Warendorf,277.783,"1.319,41",211
+5754,Gütersloh,GT, NW,Gütersloh,364.083,"969,21",376
+5758,Herford,HF, NW,Herford,250.783,"450,41",557
+5762,Höxter,"HX, WAR", NW,Höxter,140.667,"1.201,42",117
+5766,Lippe,LIP, NW,Detmold,348.391,"1.246,21",280
+5770,Minden-Lübbecke,MI, NW,Minden,310.71,"1.152,41",270
+5774,Paderborn,"PB, BÜR", NW,Paderborn,306.89,"1.246,8",246
+5954,Ennepe-Ruhr-Kreis,"EN, WIT", NW,Schwelm,324.296,"409,64",792
+5958,Hochsauerlandkreis,HSK, NW,Meschede,260.475,"1.960,17",133
+5962,Märkischer Kreis,MK, NW,Lüdenscheid,412.12,"1.061,06",388
+5966,Olpe,OE, NW,Olpe,134.775,"712,14",189
+5970,Siegen-Wittgenstein,"SI, BLB", NW,Siegen,278.21,"1.132,89",246
+5974,Soest,"SO, LP", NW,Soest,301.902,"1.328,63",227
+5978,Unna,"UN, LH, LÜN", NW,Unna,394.782,"543,21",727
+6431,Bergstraße,HP, HE,Heppenheim,269.694,"719,52",375
+6432,Darmstadt-Dieburg,"DA, DI", HE,Darmstadt[FN 2],297.399,"658,65",452
+6433,Groß-Gerau,GG, HE,Groß-Gerau,274.526,"453,04",606
+6434,Hochtaunuskreis,"HG, USI", HE,Bad Homburg vor der Höhe,236.564,"482,02",491
+6435,Main-Kinzig-Kreis,"MKK, HU, GN, SLÜ", HE,Gelnhausen,418.95,"1.397,55",300
+6436,Main-Taunus-Kreis,MTK, HE,Hofheim am Taunus,237.735,"222,39",1069
+6437,Odenwaldkreis,ERB, HE,Erbach,96.798,"623,98",155
+6438,Offenbach,OF, HE,Dietzenbach,354.092,"356,3",994
+6439,Rheingau-Taunus-Kreis,"RÜD, SWA", HE,Bad Schwalbach,187.157,"811,48",231
+6440,Wetteraukreis,"FB, BÜD", HE,Friedberg (Hessen),306.46,"1.100,69",278
+6531,Gießen,GI, HE,Gießen,268.876,"854,67",315
+6532,Lahn-Dill-Kreis,"LDK, DIL, (WZ)", HE,Wetzlar,253.777,"1.066,52",238
+6533,Limburg-Weilburg,"LM, WEL", HE,Limburg an der Lahn,172.083,"738,48",233
+6534,Marburg-Biedenkopf,"MR, BID", HE,Marburg,246.648,"1.262,55",195
+6535,Vogelsbergkreis,VB, HE,Lauterbach (Hessen),105.878,"1.458,99",73
+6631,Fulda,FD, HE,Fulda,222.584,"1.380,4",161
+6632,Hersfeld-Rotenburg,"HEF, ROF", HE,Bad Hersfeld,120.829,"1.097,12",110
+6633,Kassel,"KS, HOG, WOH", HE,Kassel[FN 2],236.633,"1.292,92",183
+6634,Schwalm-Eder-Kreis,"HR, FZ, MEG, ZIG", HE,Homberg (Efze),180.222,"1.538,51",117
+6635,Waldeck-Frankenberg,"KB, FKB, WA", HE,Korbach,156.953,"1.848,44",85
+6636,Werra-Meißner-Kreis,"ESW, WIZ", HE,Eschwege,101.017,"1.024,7",99
+7131,Ahrweiler,AW, RP,Bad Neuenahr-Ahrweiler,129.727,"786,98",165
+7132,Altenkirchen (Westerwald),AK, RP,Altenkirchen (Westerwald),128.705,"641,99",200
+7133,Bad Kreuznach,KH, RP,Bad Kreuznach,158.08,"863,76",183
+7134,Birkenfeld,BIR, RP,Birkenfeld,80.72,"776,58",104
+7135,Cochem-Zell,"COC, ZEL", RP,Cochem,61.587,"692,33",89
+7137,Mayen-Koblenz,"MYK, MY", RP,Koblenz[FN 2],214.259,"817,25",262
+7138,Neuwied,NR, RP,Neuwied,181.941,"626,9",290
+7140,Rhein-Hunsrück-Kreis,"SIM, GOA", RP,Simmern/Hunsrück,102.937,"991,12",104
+7141,Rhein-Lahn-Kreis,"EMS, DIZ, GOH", RP,Bad Ems,122.308,"782,29",156
+7143,Westerwaldkreis,WW, RP,Montabaur,201.597,"988,95",204
+7231,Bernkastel-Wittlich,"WIL, BKS", RP,Wittlich,112.262,"1.167,56",96
+7232,Eifelkreis Bitburg-Prüm,"BIT, PRÜ", RP,Bitburg,98.561,"1.626,22",61
+7233,Vulkaneifel,DAU, RP,Daun,60.603,"911,02",67
+7235,Trier-Saarburg,"TR, SAB", RP,Trier[FN 2],148.945,"1.101,49",135
+7331,Alzey-Worms,AZ, RP,Alzey,129.244,"588,15",220
+7332,Bad Dürkheim,DÜW, RP,Bad Dürkheim,132.66,"594,76",223
+7333,Donnersbergkreis,"KIB, ROK", RP,Kirchheimbolanden,75.101,"645,52",116
+7334,Germersheim,GER, RP,Germersheim,129.075,"463,35",279
+7335,Kaiserslautern,KL, RP,Kaiserslautern[FN 2],106.057,"639,88",166
+7336,Kusel,KUS, RP,Kusel,70.526,"573,28",123
+7337,Südliche Weinstraße,SÜW, RP,Landau in der Pfalz[FN 2],110.356,"639,83",172
+7338,Rhein-Pfalz-Kreis,RP, RP,Ludwigshafen am Rhein[FN 2],154.201,"304,92",506
+7339,Mainz-Bingen,"MZ, BIN", RP,Ingelheim am Rhein,210.889,"605,77",348
+7340,Südwestpfalz,"PS, ZW", RP,Pirmasens[FN 2],95.113,"953,65",100
+8115,Böblingen,"BB, LEO", BW,Böblingen,391.64,"617,82",634
+8116,Esslingen,"ES, NT", BW,Esslingen am Neckar,533.859,"641,46",832
+8117,Göppingen,GP, BW,Göppingen,257.253,"642,36",400
+8118,Ludwigsburg,"LB, VAI", BW,Ludwigsburg,543.984,"686,84",792
+8119,Rems-Murr-Kreis,"WN, BK", BW,Waiblingen,426.158,"858,13",497
+8125,Heilbronn,HN, BW,Heilbronn[FN 2],343.068,"1.099,9",312
+8126,Hohenlohekreis,"KÜN, ÖHR", BW,Künzelsau,112.01,"776,78",144
+8127,Schwäbisch Hall,"SHA, BK, CR", BW,Schwäbisch Hall,195.861,"1.483,97",132
+8128,Main-Tauber-Kreis,"TBB, MGH", BW,Tauberbischofsheim,132.321,"1.304,4",101
+8135,Heidenheim,HDH, BW,Heidenheim an der Brenz,132.472,"627,14",211
+8136,Ostalbkreis,"AA, GD", BW,Aalen,314.002,"1.511,54",208
+8215,Karlsruhe,KA, BW,Karlsruhe[FN 2],444.232,"1.084,96",409
+8216,Rastatt,"RA, BH", BW,Rastatt,231.018,"738,75",313
+8225,Neckar-Odenwald-Kreis,"MOS, BCH", BW,Mosbach,143.535,"1.126,24",127
+8226,Rhein-Neckar-Kreis,HD, BW,Heidelberg[FN 2],547.625,"1.061,7",516
+8235,Calw,CW, BW,Calw,158.397,"797,53",199
+8236,Enzkreis,PF, BW,Pforzheim[FN 2],198.905,"573,68",347
+8237,Freudenstadt,"FDS, HCH, HOR, WOL", BW,Freudenstadt,117.935,"870,67",135
+8315,Breisgau-Hochschwarzwald,FR, BW,Freiburg im Breisgau[FN 2],262.795,"1.378,34",191
+8316,Emmendingen,EM, BW,Emmendingen,165.383,"679,9",243
+8317,Ortenaukreis,"OG, BH, KEL, LR, WOL", BW,Offenburg,429.479,"1.860,81",231
+8325,Rottweil,RW, BW,Rottweil,139.455,"769,4",181
+8326,Schwarzwald-Baar-Kreis,VS, BW,Villingen-Schwenningen,212.381,"1.025,27",207
+8327,Tuttlingen,TUT, BW,Tuttlingen,140.152,"734,35",191
+8335,Konstanz,"KN, (BÜS)", BW,Konstanz,285.325,"817,97",349
+8336,Lörrach,LÖ, BW,Lörrach,228.639,"806,76",283
+8337,Waldshut,WT, BW,Waldshut-Tiengen,170.619,"1.131,15",151
+8415,Reutlingen,RT, BW,Reutlingen,286.748,"1.092,74",262
+8416,Tübingen,TÜ, BW,Tübingen,227.331,"519,2",438
+8417,Zollernalbkreis,"BL, HCH", BW,Balingen,188.935,"917,72",206
+8425,Alb-Donau-Kreis,UL, BW,Ulm[FN 2],196.047,"1.358,68",144
+8426,Biberach,BC, BW,Biberach an der Riß,199.742,"1.409,74",142
+8435,Bodenseekreis,"FN, TT, ÜB", BW,Friedrichshafen,216.227,"664,81",325
+8436,Ravensburg,RV, BW,Ravensburg,284.285,"1.631,86",174
+8437,Sigmaringen,SIG, BW,Sigmaringen,130.873,"1.204,34",109
+9171,Altötting,"AÖ, LF", BY,Altötting,111.21,"569,35",195
+9172,Berchtesgadener Land,"BGL, BGD, LF, REI", BY,Bad Reichenhall,105.722,"839,92",126
+9173,Bad Tölz-Wolfratshausen,"TÖL, WOR", BY,Bad Tölz,127.227,"1.110,69",115
+9174,Dachau,DAH, BY,Dachau,153.884,"579,18",266
+9175,Ebersberg,EBE, BY,Ebersberg,142.142,"549,36",259
+9176,Eichstätt,EI, BY,Eichstätt,132.341,"1.214,06",109
+9177,Erding,ED, BY,Erding,137.66,"870,72",158
+9178,Freising,FS, BY,Freising,179.116,"799,83",224
+9179,Fürstenfeldbruck,FFB, BY,Fürstenfeldbruck,219.32,"434,79",504
+9180,Garmisch-Partenkirchen,GAP, BY,Garmisch-Partenkirchen,88.467,"1.012,22",87
+9181,Landsberg am Lech,LL, BY,Landsberg am Lech,120.071,"804,38",149
+9182,Miesbach,MB, BY,Miesbach,99.726,"866,23",115
+9183,Mühldorf am Inn,"MÜ, VIB, WS", BY,Mühldorf am Inn,115.25,"805,31",143
+9184,München,"M, AIB, WOR", BY,München[FN 2],348.871,"664,25",525
+9185,Neuburg-Schrobenhausen,"ND, SOB", BY,Neuburg an der Donau,96.68,"739,81",131
+9186,Pfaffenhofen an der Ilm,PAF, BY,Pfaffenhofen an der Ilm,127.151,"761,14",167
+9187,Rosenheim,"RO, AIB, WS", BY,Rosenheim[FN 2],260.983,"1.439,54",181
+9188,Starnberg,"STA, WOR", BY,Starnberg,136.092,"487,71",279
+9189,Traunstein,"TS, LF", BY,Traunstein,177.089,1534,115
+9190,Weilheim-Schongau,"WM, SOG", BY,Weilheim in Oberbayern,135.348,"966,37",140
+9271,Deggendorf,DEG, BY,Deggendorf,119.326,"861,3",139
+9272,Freyung-Grafenau,"FRG, GRA, WOS", BY,Freyung,78.355,"984,15",80
+9273,Kelheim,"KEH, MAI, PAR, RID, ROL", BY,Kelheim,122.258,"1.065,97",115
+9274,Landshut,"LA, MAI, MAL, ROL, VIB", BY,Landshut[FN 2],158.698,"1.347,89",118
+9275,Passau,PA, BY,Passau[FN 2],192.043,"1.530,29",125
+9276,Regen,"REG, VIT", BY,Regen,77.656,"974,92",80
+9277,Rottal-Inn,"PAN, EG, GRI, VIB", BY,Pfarrkirchen,120.659,"1.281,42",94
+9278,Straubing-Bogen,"SR, BOG, MAL", BY,Straubing[FN 2],100.649,"1.201,94",84
+9279,Dingolfing-Landau,"DGF, LAN", BY,Dingolfing,96.217,"877,79",110
+9371,Amberg-Sulzbach,"AS, BUL, ESB, NAB, SUL", BY,Amberg[FN 2],103.109,"1.255,75",82
+9372,Cham,"CHA, KÖZ, ROD, WÜM", BY,Cham,127.882,"1.520,17",84
+9373,Neumarkt in der Oberpfalz,"NM, PAR", BY,Neumarkt in der Oberpfalz,133.561,"1.344,11",99
+9374,Neustadt an der Waldnaab,"NEW, ESB, VOH", BY,Neustadt an der Waldnaab,94.352,"1.427,67",66
+9375,Regensburg,R, BY,Regensburg[FN 2],193.572,"1.391,9",139
+9376,Schwandorf,"SAD, BUL, NAB, NEN, OVI, ROD", BY,Schwandorf,147.189,"1.464,97",100
+9377,Tirschenreuth,"TIR, KEM", BY,Tirschenreuth,72.504,"1.084,23",67
+9471,Bamberg,BA, BY,Bamberg[FN 2],147.086,"1.167,83",126
+9472,Bayreuth,"BT, EBS, ESB, KEM, MÜB, PEG", BY,Bayreuth[FN 2],103.656,"1.273,74",81
+9473,Coburg,"CO, NEC", BY,Coburg[FN 2],86.906,"590,47",147
+9474,Forchheim,"FO, EBS, PEG", BY,Forchheim,116.099,"642,79",181
+9475,Hof,"HO, MÜB, NAI, REH, SAN", BY,Hof[FN 2],95.311,"892,52",107
+9476,Kronach,"KC, SAN", BY,Kronach,67.135,"651,53",103
+9477,Kulmbach,"KU, EBS, SAN", BY,Kulmbach,71.845,"658,34",109
+9478,Lichtenfels,"LIF, STE", BY,Lichtenfels,66.838,"519,95",129
+9479,Wunsiedel im Fichtelgebirge,"WUN, MAK, REH, SEL", BY,Wunsiedel,73.178,"606,43",121
+9571,Ansbach,"AN, DKB, FEU, ROT", BY,Ansbach[FN 2],183.949,"1.971,84",93
+9572,Erlangen-Höchstadt,"ERH, HÖS", BY,Erlangen[FN 2],136.271,"564,66",241
+9573,Fürth,FÜ, BY,Zirndorf,117.387,"307,55",382
+9574,Nürnberger Land,"LAU, ESB, HEB, N, PEG", BY,Lauf an der Pegnitz,170.365,"799,57",213
+9575,Neustadt an der Aisch-Bad Windsheim,"NEA, SEF, UFF", BY,Neustadt an der Aisch,100.364,"1.267,56",79
+9576,Roth,"RH, HIP", BY,Roth,126.958,"895,39",142
+9577,Weißenburg-Gunzenhausen,"WUG, GUN", BY,Weißenburg in Bayern,94.393,"970,91",97
+9671,Aschaffenburg,"AB, ALZ", BY,Aschaffenburg[FN 2],174.208,"699,15",249
+9672,Bad Kissingen,"KG, BRK, HAB", BY,Bad Kissingen,103.218,"1.136,96",91
+9673,Rhön-Grabfeld,"NES, KÖN, MET", BY,Bad Neustadt an der Saale,79.69,"1.021,77",78
+9674,Haßberge,"HAS, EBN, GEO, HOH", BY,Haßfurt,84.599,"956,38",88
+9675,Kitzingen,KT, BY,Kitzingen,90.909,"684,19",133
+9676,Miltenberg,"MIL, OBB", BY,Miltenberg,128.756,"715,86",180
+9677,Main-Spessart,MSP, BY,Karlstadt,126.365,"1.321,42",96
+9678,Schweinfurt,"SW, GEO", BY,Schweinfurt[FN 2],115.106,"841,46",137
+9679,Würzburg,"WÜ, OCH", BY,Würzburg[FN 2],161.834,"968,4",167
+9771,Aichach-Friedberg,"AIC, FDB", BY,Aichach,133.596,"780,33",171
+9772,Augsburg,"A, SMÜ, WER", BY,Augsburg[FN 2],251.534,"1.071,13",235
+9773,Dillingen an der Donau,"DLG, WER", BY,Dillingen an der Donau,96.021,"792,22",121
+9774,Günzburg,"GZ, KRU", BY,Günzburg,125.747,"762,44",165
+9775,Neu-Ulm,"NU, ILL", BY,Neu-Ulm,174.2,"515,86",338
+9776,Lindau (Bodensee),LI, BY,Lindau (Bodensee),81.669,"323,44",252
+9777,Ostallgäu,"OAL, FÜS, MOD", BY,Marktoberdorf,140.316,"1.394,91",101
+9778,Unterallgäu,MN, BY,Mindelheim,144.041,"1.230,06",117
+9779,Donau-Ries,"DON, NÖ", BY,Donauwörth,133.496,"1.274,68",105
+9780,Oberallgäu,OA, BY,Sonthofen,155.362,1528,102
+10041,"Saarbrücken, Regionalverband[FN 1]","SB, (VK)", SL,Saarbrücken,328.714,"410,64",800
+10042,Merzig-Wadern,MZG, SL,Merzig,103.243,"555,17",186
+10043,Neunkirchen,NK, SL,Ottweiler,131.408,"249,24",527
+10044,Saarlouis,SLS, SL,Saarlouis,194.319,"459,05",423
+10045,Saarpfalz-Kreis,"HOM, (IGB)", SL,Homburg,142.196,"418,4",340
+10046,St. Wendel,WND, SL,St. Wendel,87.007,"476,22",183
+12060,Barnim,"BAR, BER, EW", BB,Eberswalde,182.76,"1.479,67",124
+12061,Dahme-Spreewald,"LDS, KW, LC, LN", BB,Lübben (Spreewald),169.067,"2.274,48",74
+12062,Elbe-Elster,"EE, FI, LIB", BB,Herzberg (Elster),102.638,"1.899,54",54
+12063,Havelland,"HVL, NAU, RN", BB,Rathenow,161.909,"1.727,3",94
+12064,Märkisch-Oderland,"MOL, FRW, SEE, SRB", BB,Seelow,194.328,"2.158,67",90
+12065,Oberhavel,OHV, BB,Oranienburg,211.249,"1.808,18",117
+12066,Oberspreewald-Lausitz,"OSL, CA, SFB", BB,Senftenberg,110.476,"1.223,08",90
+12067,Oder-Spree,"LOS, BSK, EH, FW", BB,Beeskow,178.658,"2.256,78",79
+12068,Ostprignitz-Ruppin,"OPR, KY, NP, WK", BB,Neuruppin,99.078,"2.526,55",39
+12069,Potsdam-Mittelmark,PM, BB,Bad Belzig,214.664,"2.591,61",83
+12070,Prignitz,PR, BB,Perleberg,76.508,"2.138,61",36
+12071,Spree-Neiße,"SPN, FOR, GUB, SPB", BB,Forst (Lausitz),114.429,"1.657,45",69
+12072,Teltow-Fläming,TF, BB,Luckenwalde,168.296,"2.104,19",80
+12073,Uckermark,"UM, ANG, PZ, SDT, TP", BB,Prenzlau,119.552,"3.076,93",39
+13071,Mecklenburgische Seenplatte,"MSE, AT, DM, MC, MST, MÜR, NZ, RM, WRN, (NB)", MV,Neubrandenburg,259.13,"5.470,35",47
+13072,Rostock,"LRO, BÜZ, DBR, GÜ, ROS, TET", MV,Güstrow,215.113,"3.422,51",63
+13073,Vorpommern-Rügen,"VR, GMN, NVP, RDG, RÜG, (HST)", MV,Stralsund,224.684,"3.207,37",70
+13074,Nordwestmecklenburg,"NWM, GDB, GVM, WIS, (HWI)", MV,Wismar,156.729,"2.118,51",74
+13075,Vorpommern-Greifswald,"VG, ANK, GW, PW, SBG, UEM, WLG, (HGW)", MV,Greifswald,236.697,"3.929,73",60
+13076,Ludwigslust-Parchim,"LUP, HGN, LBZ, LWL, PCH, STB", MV,Parchim,212.618,"4.752,44",45
+14521,Erzgebirgskreis,"ERZ, ANA, ASZ, AU, MAB, MEK, STL, SZB, ZP", SN,Annaberg-Buchholz,337.696,"1.827,91",185
+14522,Mittelsachsen,"FG, BED, DL, FLÖ, HC, MW, RL", SN,Freiberg,306.185,"2.116,85",145
+14523,Vogtlandkreis,"V, AE, OVL, PL, RC", SN,Plauen,227.796,"1.412,42",161
+14524,Zwickau,"Z, GC, HOT, WDA", SN,Zwickau,317.531,"949,78",334
+14625,Bautzen,"BZ, BIW, HY, KM", SN,Bautzen,300.88,"2.395,61",126
+14626,Görlitz,"GR, LÖB, NOL, NY, WSW, ZI", SN,Görlitz,254.894,"2.111,41",121
+14627,Meißen,"MEI, GRH, RG, RIE", SN,Meißen,242.165,"1.454,59",166
+14628,Sächsische Schweiz-Osterzgebirge,"PIR, DW, FTL, SEB", SN,Pirna,245.611,"1.654,19",148
+14729,Leipzig,"L, BNA, GHA, GRM, MTL, WUR", SN,Borna,257.763,"1.651,3",156
+14730,Nordsachsen,"TDO, DZ, EB, OZ, TG, TO", SN,Torgau,197.673,"2.028,56",97
+15081,Altmarkkreis Salzwedel,"SAW, GA, KLZ", ST,Salzwedel,83.765,"2.293,03",37
+15082,Anhalt-Bitterfeld,"ABI, AZE, BTF, KÖT, ZE", ST,Köthen,159.854,"1.453,52",110
+15083,Börde,"BK, BÖ, HDL, OC, OK, WMS, WZL", ST,Haldensleben,171.734,"2.366,63",73
+15084,Burgenlandkreis,"BLK, HHM, NEB, NMB, WSF, ZZ", ST,Naumburg (Saale),180.19,"1.413,67",127
+15085,Harz,"HZ, HBS, QLB, WR", ST,Halberstadt,214.446,"2.104,54",102
+15086,Jerichower Land,"JL, BRG, GNT", ST,Burg,89.928,"1.576,84",57
+15087,Mansfeld-Südharz,"MSH, EIL, HET, ML, SGH", ST,Sangerhausen,136.249,"1.448,84",94
+15088,Saalekreis,"SK, MER, MQ, QFT", ST,Merseburg,184.582,"1.433,67",129
+15089,Salzlandkreis,"SLK, ASL, BBG, SBK, SFT", ST,Bernburg (Saale),190.56,"1.426,76",134
+15090,Stendal,"SDL, HV, OBG", ST,Stendal,111.982,"2.423,16",46
+15091,Wittenberg,"WB, GHC, JE", ST,Lutherstadt Wittenberg,125.84,"1.930,31",65
+16061,Eichsfeld,"EIC, HIG, WBS", TH,Heilbad Heiligenstadt,100.38,"943,07",106
+16062,Nordhausen,NDH, TH,Nordhausen,83.822,"713,9",117
+16063,Wartburgkreis,"WAK, SLZ", TH,Bad Salzungen,119.726,"1.267,26",94
+16064,Unstrut-Hainich-Kreis,"UH, LSZ, MHL", TH,Mühlhausen/Thüringen,102.912,"979,69",105
+16065,Kyffhäuserkreis,"KYF, ART, SDH", TH,Sondershausen,75.009,"1.037,91",72
+16066,Schmalkalden-Meiningen,"SM, MGN", TH,Meiningen,125.646,"1.251,2",100
+16067,Gotha,GTH, TH,Gotha,135.452,"936,08",145
+16068,Sömmerda,SÖM, TH,Sömmerda,69.655,"806,86",86
+16069,Hildburghausen,HBN, TH,Hildburghausen,63.553,"938,42",68
+16070,Ilm-Kreis,"IK, ARN, IL", TH,Arnstadt,106.622,"805,11",132
+16071,Weimarer Land,"AP, APD", TH,Apolda,81.947,"804,48",102
+16072,Sonneberg,"SON, NH", TH,Sonneberg,58.41,"433,61",135
+16073,Saalfeld-Rudolstadt,"SLF, RU", TH,Saalfeld/Saale,104.142,"1.036,03",101
+16074,Saale-Holzland-Kreis,"SHK, EIS, SRO", TH,Eisenberg,83.051,"815,24",102
+16075,Saale-Orla-Kreis,"SOK, LBS, PN, SCZ", TH,Schleiz,80.868,"1.151,3",70
+16076,Greiz,"GRZ, ZR", TH,Greiz,98.159,"845,97",116
+16077,Altenburger Land,"ABG, SLN", TH,Altenburg,90.118,"569,41",158
