@@ -13,7 +13,7 @@ import folium
 import selenium.webdriver   # For generating screenshots of HTML files
 
 # Configuration
-FROM_YEAR = 2010
+FROM_YEAR = 2019
 TO_YEAR = 2019
 
 OUT_DIR = "output"
@@ -33,7 +33,7 @@ def analyseForYear(yearStr, monthStr="", dayStr=""):
     if monthStr != "":
         if dayStr != "":
             # query for day
-            query = "SELECT sts.stationsname, AVG(vals.temperature_day) as avg_temp FROM air_temperature_values as vals LEFT JOIN air_temperature_stations as sts ON vals.stations_id = sts.stations_id WHERE vals.messdatum_date>= date('" + yearStr + "-" + monthStr + "-" + dayStr + "') GROUP BY sts.stationsname"
+            query = "SELECT sts.stationsname, AVG(vals.temperature_day) as avg_temp FROM air_temperature_values as vals LEFT JOIN air_temperature_stations as sts ON vals.stations_id = sts.stations_id WHERE vals.messdatum_date = date('" + yearStr + "-" + monthStr + "-" + dayStr + "') GROUP BY sts.stationsname"
         else:
             # query for one month
             daysInMonth = monthrange(int(yearStr), int(monthStr))[1]
@@ -122,7 +122,7 @@ def analyseForYear(yearStr, monthStr="", dayStr=""):
         line_opacity=0.2,
         legend_name='Temperatur (Grad Celsius)',
         highlight=True,
-        threshold_scale=[0, 6, 8, 10, 12, 14]
+        # threshold_scale=[0, 6, 8, 10, 12, 14]
     ).add_to(m)
 
     # Add station markers from GeoPandas data frame
@@ -131,9 +131,9 @@ def analyseForYear(yearStr, monthStr="", dayStr=""):
 
     fileName = yearStr
     if monthStr != "":
-        fileName += "-" + monthStr
+        fileName += "-" + monthStr.zfill(2)
         if dayStr != "":
-            fileName += "-" + dayStr
+            fileName += "-" + dayStr.zfill(2)
 
     m.save(OUT_DIR + "/temps-" + fileName + ".html")
 
@@ -156,7 +156,10 @@ def renderHTML(htmlFilePath):
 
 # Analyse and save HTML files of maps
 for i in range(FROM_YEAR, TO_YEAR + 1):
-    analyseForYear(str(i))
+    for m in range(1, 4):
+        daysInMonth = monthrange(i, m)[1]
+        for d in range(1, daysInMonth + 1, 5):
+            analyseForYear(str(i), monthStr=str(m), dayStr=str(d))
 
 # Now render the HTML files to PNGs
 print("Rendering the HTML maps to PNGs...")
