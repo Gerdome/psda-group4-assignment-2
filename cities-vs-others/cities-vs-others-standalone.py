@@ -20,7 +20,7 @@ def analyseForYear(yearStr):
     #airtemps2010
 
     # Get all average temps for stations in year
-    query = "SELECT sts.stationsname, AVG(vals.temperature_day) as avg_temp_yr2010 FROM air_temperature_values as vals LEFT JOIN air_temperature_stations as sts ON vals.stations_id = sts.stations_id WHERE vals.messdatum_date >= date('" + yearStr + "-01-01') AND vals.messdatum_date <= date('" + yearStr + "-12-31') GROUP BY sts.stationsname"
+    query = "SELECT sts.stationsname, AVG(vals.temperature_day) as avg_temp_yr2010 FROM air_temperature_values as vals LEFT JOIN air_temperature_stations as sts ON vals.stations_id = sts.stations_id WHERE vals.messdatum_date >= date('" + yearStr + "-06-01') AND vals.messdatum_date <= date('" + yearStr + "-08-31') GROUP BY sts.stationsname"
     print(query)
     avgtemps2010 = pd.read_sql_query(query, connection)
 
