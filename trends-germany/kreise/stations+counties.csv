@@ -1,0 +1,533 @@
+,von_datum,bis_datum,stationshoehe_x,geobreite_x,geolaenge_x,stationsname,Landkreis
+0,2004-10-01,2020-04-27,156.0,10.0138,51.2041,Eschwege,Werra-Meißner-Kreis
+1,2005-07-01,2020-04-27,215.0,8.1164,49.7273,Alzey,Alzey-Worms
+2,2005-03-01,2020-04-27,382.0,11.8546,49.4691,Amberg-Unterammersricht,Amberg
+3,2005-03-01,2020-04-27,516.0,12.2925,48.0197,Amerang-Pfaffing,Rosenheim
+4,2011-09-01,2020-04-27,75.0,7.4202,50.4237,Andernach,Mayen-Koblenz
+5,1956-01-01,2020-04-27,54.0,13.9908,53.0316,Angermünde,Uckermark
+6,2004-09-01,2020-04-27,9.0,13.6846,53.8412,Anklam,Vorpommern-Greifswald
+7,1973-01-01,2020-04-27,42.0,13.4343,54.6792,Arkona,Vorpommern-Rügen
+8,2004-11-04,2020-04-27,220.0,9.9113,49.9695,Arnstein-Müdesheim,Main-Spessart
+9,1961-01-01,2020-04-27,164.0,11.292,51.3745,Artern,Kyffhäuserkreis
+10,2005-01-01,2020-04-27,672.0,11.3642,47.8774,Attenkam,Bad Tölz-Wolfratshausen
+11,1982-01-01,2020-04-27,387.0,12.714,50.5907,Aue,Erzgebirgskreis
+12,1955-01-01,2020-04-27,461.0,10.942,48.4254,Augsburg,Aichach-Friedberg
+13,2002-11-01,2020-04-27,240.0,8.2457,48.727,Baden-Baden-Geroldsau,Baden-Baden
+14,2004-07-01,2020-04-27,273.0,7.6387,47.8064,Müllheim,Breisgau-Hochschwarzwald
+15,1961-01-01,2020-04-27,240.0,10.9206,49.8743,Bamberg,Bamberg
+16,2004-07-01,2020-04-27,110.0,9.43,52.3199,Barsinghausen-Hohenbostel,Region Hannover
+17,1981-01-01,2020-04-27,3.0,12.7108,54.3406,Barth,Vorpommern-Rügen
+18,1993-08-19,2020-04-27,55.0,13.4996,52.0614,Baruth,Teltow-Fläming
+19,2004-05-01,2020-04-27,234.0,14.5042,51.1604,"Kubschütz, Kr, Bautzen",Bautzen
+20,2006-07-01,2020-04-27,350.0,11.5197,49.9667,Heinersreuth-Vollhof,Bayreuth
+21,2004-07-01,2013-07-08,120.0,8.0577,51.7204,Beckum-Unterberg,Warendorf
+22,2004-08-01,2020-04-27,450.0,8.9673,49.5617,Oberzent-Beerfelden,Odenwaldkreis
+23,2010-12-01,2020-04-27,103.0,8.1694,52.317,Belm,Osnabrück
+24,1989-12-15,2011-09-01,127.0,7.5886,50.4135,Bendorf,Mayen-Koblenz
+25,2002-01-01,2020-04-27,70.0,9.9248,52.8152,Bergen,Celle
+26,2004-10-01,2020-04-27,210.0,7.9967,49.107,"Bergzabern, Bad",Südliche Weinstraße
+27,2017-09-01,2020-04-27,303.0,11.2665,50.9074,"Berka, Bad (Flugplatz)",Weimarer Land
+28,2004-07-01,2020-04-27,610.0,8.3683,50.9837,"Berleburg, Bad-Stünzel",Siegen-Wittgenstein
+29,1969-12-01,2011-08-01,36.0,13.4057,52.5198,Berlin-Alexanderplatz,Berlin
+30,1991-01-01,2020-04-27,60.0,13.5022,52.6309,Berlin-Buch,Berlin
+31,2002-01-01,2020-04-27,51.0,13.3017,52.4537,Berlin-Dahlem (FU),Berlin
+32,2004-05-01,2020-04-27,33.0,13.7309,52.404,Berlin-Kaniswall,Berlin
+33,2007-08-01,2020-04-27,60.0,13.5598,52.5447,Berlin-Marzahn,Berlin
+34,1973-01-01,2020-04-27,46.0,13.5306,52.3807,Berlin-Schönefeld,Dahme-Spreewald
+35,1986-01-01,2020-04-27,36.0,13.3088,52.5644,Berlin-Tegel,Berlin
+36,1951-01-01,2020-04-27,48.0,13.4021,52.4675,Berlin-Tempelhof,Berlin
+37,2005-07-01,2020-04-27,84.0,11.7109,51.8218,Bernburg/Saale (Nord),Salzlandkreis
+38,2005-08-01,2020-04-27,308.0,13.3003,51.0507,Nossen,Meißen
+39,2005-11-01,2012-12-04,120.0,7.0664,49.9186,Bernkastel-Kues,Bernkastel-Wittlich
+40,1961-01-01,2020-04-27,363.0,6.6868,49.264,Berus,Saarlouis
+41,2004-06-01,2020-04-27,417.0,7.3079,50.0372,Blankenrath,Cochem-Zell
+42,2008-01-01,2018-11-01,101.0,7.2697,51.4789,Bochum,Bochum
+43,1973-01-01,2020-04-27,45.0,10.6878,53.3911,Boizenburg,Ludwigslust-Parchim
+44,1973-01-01,2020-04-27,15.0,11.1908,54.0028,Boltenhagen,Nordwestmecklenburg
+45,2001-04-03,2020-04-23,144.0,7.2047,50.729,Königswinter-Heiderhof,Rhein-Sieg-Kreis
+46,2004-06-01,2020-04-27,47.0,6.8863,51.873,Borken in Westfalen,Borken
+47,1948-01-01,2020-04-27,607.0,10.6021,51.7234,Braunlage,Goslar
+48,1951-01-01,2020-04-27,81.0,10.4464,52.2915,Braunschweig,Braunschweig
+49,1949-01-01,2020-04-27,4.0,8.7979,53.045,Bremen,Bremen
+50,1949-01-01,2020-04-27,7.0,8.5761,53.5332,Bremerhaven,Bremerhaven
+51,2002-01-01,2020-04-27,11.0,9.139,53.4451,Bremervörde,Rotenburg (Wümme)
+52,1951-01-01,2020-04-27,1134.0,10.6183,51.7986,Brocken,Harz
+53,2004-06-01,2020-04-27,340.0,9.3213,49.5182,"Buchen, Kr, Neckar-Odenwald",Neckar-Odenwald-Kreis
+54,2004-06-01,2020-04-27,445.0,7.9983,47.9625,Buchenbach,Breisgau-Hochschwarzwald
+55,2017-12-01,2020-04-27,82.0,9.9435,53.3629,Rosengarten-Klecken,Harburg
+56,2002-01-01,2020-04-27,477.0,7.0595,50.1746,Büchel (Flugplatz),Cochem-Zell
+57,2002-01-01,2020-04-27,68.0,9.0889,52.2817,Bückeburg,Schaumburg
+58,2005-02-01,2020-04-27,293.0,8.8146,51.0306,Burgwald-Bottendorf,Waldeck-Frankenberg
+59,1991-01-01,2020-04-27,897.0,12.6114,50.4313,Carlsfeld,Erzgebirgskreis
+60,2002-01-01,2020-04-27,39.0,10.0296,52.5959,Celle,Celle
+61,1951-01-01,2020-04-27,418.0,12.872,50.7913,Chemnitz,Chemnitz
+62,2002-01-01,2020-04-27,551.0,12.5404,47.8843,Chieming,Traunstein
+63,2007-10-01,2012-04-03,585.0,10.347,51.7904,Clausthal-Zellerfeld,Goslar
+64,1947-01-01,2020-04-27,344.0,10.9679,50.3066,Lautertal-Oberlauter,Coburg
+65,1956-01-01,2020-04-27,69.0,14.3168,51.776,Cottbus,Cottbus
+66,1951-01-01,2020-04-27,5.0,8.7058,53.8713,Cuxhaven,
+67,2004-08-01,2020-04-27,170.0,10.8619,51.0778,Dachwig,Gotha
+68,2004-09-01,2020-04-27,162.0,8.6779,49.8809,Darmstadt,Darmstadt
+69,1955-01-01,2020-04-27,481.0,7.0541,49.7619,Deuselbach,Bernkastel-Wittlich
+70,2000-05-01,2020-04-27,0.0,7.4587,54.1796,UFS Deutsche Bucht,
+71,1994-01-03,2020-04-27,38.0,8.3424,52.5881,Diepholz,Diepholz
+72,2004-09-01,2020-04-27,314.0,8.2672,50.7364,Dillenburg,Lahn-Dill-Kreis
+73,2006-12-01,2020-04-27,419.0,10.5599,48.5562,Dillingen/Donau-Fristingen,Dillingen an der Donau
+74,2005-02-01,2020-04-27,359.0,13.7087,50.9116,Dippoldiswalde-Reinberg,Sächsische Schweiz-Osterzgebirge
+75,1981-01-01,2020-04-27,97.0,13.5747,51.6451,Doberlug-Kirchhain,Elbe-Elster
+76,1973-01-01,2020-04-27,227.0,13.7543,51.128,Dresden-Klotzsche,Dresden
+77,2006-04-01,2020-04-27,114.0,13.847,51.0221,Dresden-Hosterwitz,Dresden
+78,2007-03-01,2020-04-27,120.0,13.775,51.0248,Dresden-Strehlen,Dresden
+79,2004-07-01,2020-04-27,80.0,12.1641,52.2174,Drewitz bei Burg,Jerichower Land
+80,2004-06-01,2020-04-27,107.0,8.1929,49.4719,"Dürkheim, Bad",Bad Dürkheim
+81,1976-03-01,2020-04-27,37.0,6.7686,51.296,Düsseldorf,Düsseldorf
+82,2006-10-01,2020-04-27,592.0,11.9872,48.1003,Ebersberg-Halbing,Ebersberg
+83,2004-12-01,2020-04-27,346.0,10.499,49.852,Ebrach,Bamberg
+84,2005-02-01,2020-04-27,384.0,11.2349,48.8777,Eichstätt-Landershofen,Eichstätt
+85,1948-01-01,2020-04-27,460.0,10.1312,48.9895,Ellwangen-Rindelbach,Ostalbkreis
+86,2002-01-01,2020-04-27,3.0,9.0105,54.0691,Elpersbüttel,Dithmarschen
+87,2006-03-01,2020-04-27,560.0,12.2742,50.2705,"Elster, Bad-Sohl",Vogtlandkreis
+88,2004-08-01,2020-04-27,440.0,8.1089,48.2012,Elzach-Fisnacht,Emmendingen
+89,2002-12-01,2020-04-27,201.0,7.8351,48.1378,Emmendingen-Mundingen,Emmendingen
+90,2002-01-01,2020-02-04,0.0,6.346,54.1651,UFS TW Ems,
+91,2015-08-01,2020-04-27,104.0,8.0607,51.8418,Ennigerloh-Ostenfelde,Warendorf
+92,2002-12-01,2018-12-31,220.0,8.8523,49.1664,Eppingen-Elsenz,Heilbronn
+93,1992-05-17,2020-04-27,446.0,11.8133,48.3477,München-Flughafen,Erding
+94,2004-06-01,2020-04-27,18.0,9.3162,54.2992,Erfde,Schleswig-Flensburg
+95,1951-01-01,2020-04-27,316.0,10.9608,50.9829,Erfurt-Weimar,Erfurt
+96,1986-11-01,2020-04-27,268.0,11.0074,49.6497,Möhrendorf-Kleinseebach,Erlangen-Höchstadt
+97,2004-06-01,2020-04-27,351.0,8.1565,51.254,Eslohe,Hochsauerlandkreis
+98,1951-01-01,2020-04-27,150.0,6.9677,51.4041,Essen-Bredeney,Essen
+99,2004-08-01,2020-04-27,147.0,6.7905,50.7119,Weilerswist-Lommersum,Euskirchen
+100,2005-03-01,2020-04-27,471.0,12.7241,48.4832,"Falkenberg,Kr,Rottal-Inn",Rottal-Inn
+101,2002-01-01,2020-04-27,73.0,10.1885,52.9157,Faßberg,Celle
+102,2008-12-01,2011-09-29,0.0,11.15,54.6,Fehmarnbelt,
+103,1952-01-01,2020-04-24,1490.0,8.0038,47.8749,Feldberg/Schwarzwald,Breisgau-Hochschwarzwald
+104,2005-03-01,2020-04-27,654.0,11.8376,49.9807,Fichtelberg/Oberfranken-Hüttstadl,Bayreuth
+105,1951-01-01,2020-04-27,1213.0,12.9535,50.4283,Fichtelberg,Erzgebirgskreis
+106,2007-01-01,2020-04-27,745.0,10.048,50.5309,Birx/Rhön,Schmalkalden-Meiningen
+107,1981-01-01,2020-04-27,100.0,8.5213,50.0259,Frankfurt/Main,Frankfurt am Main
+108,2008-08-01,2020-04-27,124.0,8.6694,50.1269,Frankfurt/Main-Westend,Frankfurt am Main
+109,1951-01-01,2020-04-27,237.0,7.8343,48.0232,Freiburg,Freiburg im Breisgau
+110,2004-06-01,2020-04-27,2.0,9.2493,53.8277,Freiburg/Elbe,Stade
+111,1951-01-01,2020-04-27,797.0,8.409,48.4538,Freudenstadt,Freudenstadt
+112,2006-01-01,2019-02-28,414.0,11.308,49.1869,Freystadt-Michelbach,Neumarkt in der Oberpfalz
+113,2012-10-01,2020-04-27,6.0,7.9022,53.0643,Friesoythe-Altenoythe,Cloppenburg
+114,2002-01-01,2020-04-27,172.0,9.2799,51.119,Fritzlar (Flugplatz),Schwalm-Eder-Kreis
+115,2004-11-01,2020-04-27,242.0,9.6533,50.5668,Fulda-Horas,Fulda
+116,1951-01-01,2020-04-27,47.0,11.3941,52.5129,Gardelegen,Altmarkkreis Salzwedel
+117,1948-01-01,2020-04-27,719.0,11.0621,47.483,Garmisch-Partenkirchen,Garmisch-Partenkirchen
+118,1946-01-01,2020-04-27,110.0,7.9549,49.9859,Geisenheim,Rheingau-Taunus-Kreis
+119,2009-06-01,2020-04-27,672.0,8.6473,47.9242,Geisingen,Tuttlingen
+120,2002-01-01,2020-04-27,536.0,11.4289,48.9481,Gelbelsee,Eichstätt
+121,2003-07-01,2020-04-27,37.0,6.2463,51.4942,Geldern-Walbeck,Kleve
+122,2004-07-01,2020-04-27,176.0,7.9931,48.4329,Ohlsbach,Ortenaukreis
+123,1982-01-01,2020-04-27,35.0,12.1601,52.3875,Genthin,Jerichower Land
+124,1973-01-01,2020-04-27,311.0,12.1289,50.8813,Gera-Leumnitz,Gera
+125,1950-01-01,2020-04-27,203.0,8.6439,50.6017,Gießen/Wettenberg,Gießen
+126,2004-05-01,2020-04-27,340.0,9.05,50.9656,Gilserberg-Moischeid,Schwalm-Eder-Kreis
+127,2002-01-01,2020-04-27,12.0,9.5058,54.8273,Glücksburg-Meierwik,Schleswig-Flensburg
+128,1951-01-01,2020-04-27,238.0,14.9506,51.1622,Görlitz,Görlitz
+129,1948-01-01,2020-04-27,167.0,9.9507,51.5002,Göttingen,Göttingen
+130,1981-01-01,2020-04-27,58.0,12.1033,53.606,Goldberg,Ludwigslust-Parchim
+131,2006-10-01,2020-04-27,506.0,11.2239,49.664,Gräfenberg-Kasberg,Forchheim
+132,2005-03-01,2020-04-27,628.0,13.629,48.7894,Grainet-Rehberg,Freyung-Grafenau
+133,2002-01-24,2020-04-27,27.0,10.6797,53.5731,Grambek,Herzogtum Lauenburg
+134,1978-01-01,2020-04-27,2.0,13.4056,54.0967,Greifswald,Vorpommern-Greifswald
+135,2000-10-25,2020-04-27,12.0,13.9102,54.2437,Greifswalder Oie,Vorpommern-Greifswald
+136,1989-10-01,2020-04-27,48.0,7.6969,52.1344,Münster/Osnabrück,Steinfurt
+137,1991-01-01,2020-04-27,34.0,12.3238,54.0714,Groß Lüsewitz,Rostock
+138,1982-11-01,2020-04-27,1436.0,13.1338,49.1129,Großer Arber,Regen
+139,2007-12-01,2020-04-27,258.0,9.1854,50.2667,Gründau-Breitenborn,Main-Kinzig-Kreis
+140,1981-01-01,2020-04-27,56.0,13.9338,53.3153,Grünow,Uckermark
+141,2016-09-01,2020-04-27,444.0,10.2607,48.4878,Günzburg,Günzburg
+142,1953-01-01,2015-03-23,93.0,11.9499,51.5138,Halle-Kröllwitz,Halle (Saale)
+143,2005-05-01,2020-04-27,328.0,6.3821,49.9445,Olsdorf,Eifelkreis Bitburg-Prüm
+144,1949-01-01,2020-04-27,14.0,9.9881,53.6332,Hamburg-Fuhlsbüttel,Hamburg
+145,2005-03-01,2020-04-27,3.0,9.8957,53.4777,Hamburg-Neuwiedenthal,Hamburg
+146,1949-01-01,2020-04-27,59.0,9.6779,52.4644,Hannover,Region Hannover
+147,2002-01-01,2020-04-27,501.0,10.7062,48.7918,Harburg,Donau-Ries
+148,2006-11-01,2020-04-27,201.0,10.5699,51.9002,"Harzburg, Bad",Goslar
+149,1981-01-01,2020-04-27,404.0,11.1367,51.652,Harzgerode,Harz
+150,2004-06-01,2020-04-27,518.0,8.98,48.3752,Hechingen,Zollernalbkreis
+151,2004-07-01,2012-09-12,110.0,8.6676,49.4206,Heidelberg,Heidelberg
+152,2003-01-01,2020-04-27,57.0,6.1042,51.0411,Heinsberg-Schleiden,Heinsberg
+153,1952-05-01,2020-04-27,4.0,7.892,54.175,Helgoland,Pinneberg
+154,2005-03-01,2012-04-02,302.0,7.3356,49.7672,Niederwörresbach,Birkenfeld
+155,1951-01-01,2020-04-27,272.0,9.7378,50.8519,"Hersfeld, Bad",Hersfeld-Rotenburg
+156,2010-11-01,2020-04-27,238.0,10.3695,51.6255,Herzberg,Osterode am Harz
+157,2005-08-01,2020-04-27,1.0,13.1044,54.575,Hiddensee-Vitte,Vorpommern-Rügen
+158,2004-10-01,2020-04-27,295.0,7.6528,50.7371,Hilgenroth,Altenkirchen (Westerwald)
+159,2005-07-01,2020-04-27,270.0,14.7457,50.899,Bertsdorf-Hörnitz,Görlitz
+160,1947-01-01,2020-04-27,977.0,11.0108,47.8009,Hohenpeißenberg,Weilheim-Schongau
+161,2002-01-01,2020-04-27,10.0,9.539,54.3146,Hohn,Rendsburg-Eckernförde
+162,2005-08-01,2020-04-27,8.0,10.6732,54.3194,Hohwacht,Plön
+163,2002-11-01,2020-04-27,81.0,13.1666,51.7657,Holzdorf (Flugplatz),Elbe-Elster
+164,2005-06-01,2020-04-27,685.0,11.6961,47.8823,Holzkirchen,Miesbach
+165,2006-07-01,2020-04-27,110.0,9.4953,51.8529,"Bevern, Kr, Holzminden",Holzminden
+166,2004-08-01,2020-04-27,328.0,7.4843,50.5651,Hümmerich,Neuwied
+167,2002-01-01,2020-04-27,376.0,7.3264,49.6927,Idar-Oberstein,Birkenfeld
+168,1961-01-02,2020-04-27,364.0,11.5362,48.7112,Ingolstadt (Flugplatz),Pfaffenhofen an der Ilm
+169,2002-01-01,2020-04-27,21.0,9.5696,53.9897,Itzehoe,Steinburg
+170,2002-01-01,2020-04-27,21.0,9.5203,54.457,Schleswig-Jagel,Schleswig-Flensburg
+171,1991-08-01,2020-04-27,155.0,11.583,50.9251,Jena (Sternwarte),Jena
+172,2004-09-01,2020-04-27,107.0,8.993,50.0643,Kahl/Main,Aschaffenburg
+173,1951-01-01,2020-04-27,839.0,8.4891,51.1803,Kahler Asten,Hochsauerlandkreis
+174,2011-05-02,2020-04-27,489.0,9.6871,48.917,Kaisersbach-Cronhütte,Rems-Murr-Kreis
+175,2005-03-01,2020-04-27,271.0,7.7557,49.4262,Kaiserslautern,Kaiserslautern
+176,2002-01-01,2013-10-20,31.0,6.2688,51.7329,Kalkar,Kleve
+177,2004-08-01,2020-04-27,505.0,6.5264,50.5014,Kall-Sistig,Euskirchen
+178,1948-01-01,2013-10-31,231.0,9.4424,51.2963,Kassel,Kassel
+179,1975-06-01,2016-04-02,716.0,10.6007,47.8652,Kaufbeuren,Kaufbeuren
+180,1955-01-01,2020-04-27,705.0,10.3348,47.7233,Kempten,Kempten (Allgäu)
+181,2002-01-01,2020-04-27,28.0,10.1424,54.3776,Kiel-Holtenau,Kiel
+182,2007-05-23,2020-04-27,426.0,9.98,49.1804,Kirchberg/Jagst-Herboldshausen,Schwäbisch Hall
+183,2004-07-01,2020-04-27,12.0,11.4341,53.9995,Kirchdorf/Poel,Nordwestmecklenburg
+184,1948-01-01,2020-04-27,282.0,10.0792,50.224,"Kissingen, Bad",Bad Kissingen
+185,2005-03-01,2020-04-27,193.0,10.1781,49.7363,Kitzingen,Kitzingen
+186,1948-01-01,2020-04-27,826.0,8.4469,50.2218,Kleiner Feldberg/Taunus,Hochtaunuskreis
+187,2004-10-01,2020-04-27,732.0,10.4803,50.8458,Kleiner Inselsberg,Gotha
+188,2004-07-01,2020-04-27,128.0,13.8845,51.5554,Klettwitz,Oberspreewald-Lausitz
+189,2004-07-01,2020-04-27,46.0,6.0954,51.7612,Kleve,Kleve
+190,1965-07-01,2020-04-27,974.0,8.7548,48.1054,Klippeneck,Tuttlingen
+191,2004-09-01,2020-04-27,85.0,12.9065,51.5185,Klitzschen bei Torgau,Nordsachsen
+192,1960-01-01,2020-04-27,92.0,7.1575,50.8646,Köln-Bonn,Rhein-Sieg-Kreis
+193,2005-06-01,2020-04-27,289.0,10.4456,50.284,"Königshofen, Bad",Rhön-Grabfeld
+194,2004-12-01,2020-04-27,416.0,11.4872,48.8302,Kösching,Eichstätt
+195,2004-05-01,2020-04-27,76.0,12.0094,51.7511,Köthen (Anhalt),Anhalt-Bitterfeld
+196,2006-07-01,2020-04-27,742.0,11.0805,47.6652,"Kohlgrub, Bad (Rosshof)",Garmisch-Partenkirchen
+197,1971-01-01,2020-04-27,443.0,9.19,47.6774,Konstanz,Konstanz
+198,2005-11-01,2020-04-27,312.0,11.3209,50.2523,Kronach,Kronach
+199,2002-01-01,2020-04-27,417.0,11.9016,49.4283,Kümmersbruck,Amberg-Sulzbach
+200,1989-01-01,2020-04-27,40.0,12.4093,52.9363,Kyritz,Ostprignitz-Ruppin
+201,2002-01-01,2020-04-27,40.0,12.279,53.9156,Laage (Flugplatz),Rostock
+202,1995-01-01,2020-04-27,156.0,7.828,48.3647,Lahr,Ortenaukreis
+203,1975-06-01,2020-04-27,685.0,9.7645,48.5121,Merklingen,Alb-Donau-Kreis
+204,1966-01-01,2018-07-10,621.0,10.9144,48.0772,Landsberg (Flugplatz),Landsberg am Lech
+205,2004-07-01,2020-04-27,91.0,13.0878,51.9173,Langenlipsdorf,Teltow-Fläming
+206,2017-08-01,2020-04-27,118.0,11.8788,51.391,"Lauchstädt, Bad",Saalekreis
+207,2002-01-01,2020-04-27,539.0,9.9097,48.2176,Laupheim,Biberach
+208,2002-01-01,2020-04-27,550.0,10.8507,48.1849,Lechfeld,Augsburg
+209,1994-04-01,2020-04-26,7.0,8.9514,54.7903,Leck,Nordfriesland
+210,1956-01-01,2020-04-27,356.0,10.3123,51.3933,Leinefelde,Eichsfeld
+211,1951-01-01,2020-04-27,138.0,12.4462,51.3151,Leipzig-Holzhausen,Leipzig
+212,1972-05-01,2020-04-27,131.0,12.2396,51.4348,Leipzig/Halle,Nordsachsen
+213,2006-10-01,2020-04-27,286.0,8.0348,51.1333,Lennestadt-Theten,Olpe
+214,2004-06-01,2020-04-27,20.0,11.4864,53.1007,Lenzen/Elbe,Prignitz
+215,2007-04-01,2020-04-27,852.0,8.2308,47.8597,Lenzkirch-Ruhbühl,Breisgau-Hochschwarzwald
+216,2002-01-01,2020-04-21,31.0,10.2737,54.4996,Leuchtturm Kiel,
+217,2008-12-01,2020-04-27,43.0,6.9777,50.9894,Köln-Stammheim,Köln
+218,1991-11-01,2020-04-27,321.0,14.2093,50.9383,Lichtenhain-Mittelndorf,Sächsische Schweiz-Osterzgebirge
+219,1951-01-01,2020-04-27,98.0,14.118,52.2085,Lindenberg,Oder-Spree
+220,1951-01-01,2020-04-27,22.0,7.3081,52.5181,Lingen,Emsland
+221,1971-04-01,2020-04-27,157.0,8.8388,51.7855,"Lippspringe, Bad",Paderborn
+222,2004-07-01,2020-04-27,92.0,8.3945,51.6336,Lippstadt-Bökenförde,Soest
+223,1949-01-01,2020-04-27,25.0,8.4125,55.011,List auf Sylt,Nordfriesland
+224,2007-01-01,2020-04-27,500.0,11.635,50.4505,"Lobenstein, Bad",Saale-Orla-Kreis
+225,2008-06-01,2020-04-27,230.0,8.2386,50.5617,Löhnberg-Obershausen,Limburg-Weilburg
+226,2007-07-01,2018-06-01,22.0,7.7472,52.7198,Löningen,Cloppenburg
+227,2005-01-01,2020-04-27,57.0,13.8797,51.9267,Lübben-Blumenfelde,Dahme-Spreewald
+228,1985-03-01,2020-04-27,15.0,10.6989,53.8025,Lübeck-Blankensee,Lübeck
+229,1954-12-01,2019-12-26,16.0,11.1374,52.9724,Lüchow,Lüchow-Dannenberg
+230,1994-01-01,2020-04-27,387.0,7.6425,51.2452,Lüdenscheid,Märkischer Kreis
+231,1955-01-01,2020-04-27,76.0,11.5827,52.1029,Magdeburg,Magdeburg
+232,2008-05-01,2020-04-27,195.0,8.2139,49.9656,Mainz-Lerchenberg (ZDF),Mainz
+233,2004-05-01,2020-04-27,40.0,12.7867,52.6198,Berge,Havelland
+234,1985-01-01,2020-04-27,418.0,12.2179,48.7725,Mallersdorf-Pfaffenberg/Niederbayern,Straubing-Bogen
+235,2004-08-01,2020-04-27,413.0,6.8009,50.1015,Manderscheid-Sonnenhof,Bernkastel-Wittlich
+236,1989-01-01,2020-04-27,12.0,14.5452,52.5468,Manschnow,Märkisch-Oderland
+237,2006-07-01,2020-04-27,187.0,8.7746,50.8492,"Cölbe, Kr, Marburg-Biedenkopf",Marburg-Biedenkopf
+238,1982-01-01,2020-04-27,639.0,13.1469,50.651,Marienberg,Erzgebirgskreis
+239,1962-12-01,2020-04-27,547.0,7.9602,50.662,"Marienberg, Bad",Westerwaldkreis
+240,2002-01-01,2012-12-21,5.0,11.2405,54.4937,Marienleuchte,Ostholstein
+241,1981-01-01,2020-04-27,81.0,11.9319,53.3223,Marnitz,Ludwigslust-Parchim
+242,2008-07-01,2020-04-27,427.0,10.8815,50.7334,Martinroda,Ilm-Kreis
+243,2006-08-01,2020-04-27,107.0,11.5109,51.7259,Aschersleben-Mehringen,Salzlandkreis
+244,1979-01-01,2020-04-27,450.0,10.3771,50.5612,Meiningen,Schmalkalden-Meiningen
+245,2005-02-01,2020-04-27,158.0,13.4328,51.1294,Garsebach bei Meißen,Meißen
+246,1975-06-01,2020-04-27,615.0,10.1384,47.982,Memmingen,Memmingen
+247,2002-01-02,2020-04-27,19.0,7.3176,52.7156,Meppen,Emsland
+248,2004-06-01,2020-04-27,250.0,9.7622,49.4773,"Mergentheim, Bad-Neunkirchen",Main-Tauber-Kreis
+249,2002-11-01,2020-04-27,900.0,8.9433,48.1694,Meßstetten-Appental,Zollernalbkreis
+250,2004-11-01,2020-04-27,314.0,12.9189,48.8548,Metten,Deggendorf
+251,2009-04-01,2020-04-27,354.0,9.2734,48.5377,Metzingen,Reutlingen
+252,2005-05-01,2020-04-27,240.0,9.0085,49.6691,Michelstadt,Odenwaldkreis
+253,1987-10-01,2020-04-27,453.0,9.0997,49.7176,Michelstadt-Vielbrunn,Odenwaldkreis
+254,2004-11-01,2020-04-27,356.0,11.7838,50.7281,Schmieritz-Weltwitz,Saale-Orla-Kreis
+255,2008-04-01,2020-04-27,984.0,11.2653,47.4779,Mittenwald-Buckelwiesen,Garmisch-Partenkirchen
+256,2006-09-01,2020-04-27,239.0,9.253,49.7644,Röllbach,Miltenberg
+257,2005-05-01,2020-04-27,265.0,7.8061,50.4383,Montabaur,Westerwaldkreis
+258,2004-06-01,2019-06-26,240.0,9.8352,51.7209,Moringen-Lutterbeck,Northeim
+259,2002-01-01,2020-04-27,244.0,8.8734,48.9721,Mühlacker,Enzkreis
+260,1955-01-01,2020-04-27,406.0,12.5024,48.2791,Mühldorf,Mühldorf am Inn
+261,1991-01-01,2020-04-27,63.0,14.1232,52.5176,Müncheberg,Märkisch-Oderland
+262,1997-07-01,2020-04-27,515.0,11.5429,48.1631,München-Stadt,München
+263,2002-11-01,2020-04-27,750.0,9.4837,48.3851,Münsingen-Apfelstetten,Reutlingen
+264,2004-06-01,2020-04-27,127.0,14.7008,51.566,"Muskau, Bad",Görlitz
+265,2004-10-01,2020-04-27,149.0,8.7506,50.3574,"Nauheim, Bad",Wetteraukreis
+266,2002-01-01,2020-04-27,380.0,11.2147,48.7086,Neuburg/Donau (Flugplatz),Neuburg-Schrobenhausen
+267,2005-05-01,2020-04-27,486.0,10.3773,48.3115,Neuburg/Kammel-Langenhaslach,Günzburg
+268,2004-09-01,2020-04-27,111.0,7.0853,50.5346,"Neuenahr, Bad-Ahrweiler",Ahrweiler
+269,2004-10-01,2020-04-27,77.0,13.0421,53.102,Menz,Oberhavel
+270,1989-05-01,2020-04-27,845.0,11.1344,50.5002,Neuhaus am Rennweg,Sonneberg
+271,2004-05-01,2020-04-27,500.0,9.405,50.8923,Neukirchen-Hauptschwenda,Schwalm-Eder-Kreis
+272,2004-11-01,2020-04-27,195.0,7.372,50.8446,Neunkirchen-Seelscheid-Krawinkel,Rhein-Sieg-Kreis
+273,2005-03-01,2020-04-27,236.0,7.2297,49.344,Neunkirchen-Wellesweiler,Neunkirchen
+274,1973-01-01,2019-04-08,38.0,12.8072,52.9037,Neuruppin,Ostprignitz-Ruppin
+275,2008-03-01,2020-04-27,452.0,11.8638,49.8174,Neustadt am Kulm-Filchendorf,Neustadt an der Waldnaab
+276,2004-06-01,2020-04-27,350.0,6.424,50.6743,Nideggen-Schmidt,Düren
+277,2002-01-01,2020-04-27,459.0,9.9667,49.3895,Niederstetten,Main-Tauber-Kreis
+278,2007-04-01,2020-04-27,25.0,9.2229,52.6711,Nienburg,Nienburg (Weser)
+279,2006-01-01,2020-04-27,435.0,10.5067,48.8253,Reimlingen,Donau-Ries
+280,2002-01-01,2020-04-27,111.0,6.6602,50.8294,Nörvenich (Flugplatz),Düren
+281,1949-01-01,2020-04-27,12.0,7.1519,53.7123,Norderney,Aurich
+282,2002-01-01,2020-04-27,25.0,8.6583,53.7647,Nordholz (Flugplatz),Cuxhaven
+283,1995-03-02,2020-04-27,485.0,6.8697,50.3601,Nürburg-Barweiler,Ahrweiler
+284,2005-03-01,2020-04-27,368.0,11.2538,49.4258,Nürnberg-Netzstall,Nürnberg
+285,1951-01-01,2020-04-27,314.0,11.0549,49.503,Nürnberg,Nürnberg
+286,2006-11-01,2020-04-27,518.0,12.1665,47.6187,Kiefersfelden-Gach,Rosenheim
+287,1948-01-01,2020-04-27,806.0,10.2759,47.3984,Oberstdorf,Oberallgäu
+288,2004-07-01,2020-04-27,230.0,9.3525,49.128,Obersulm-Willsbach,Heilbronn
+289,2005-03-01,2020-04-27,596.0,12.4365,49.4521,Oberviechtach,Schwandorf
+290,1955-01-01,2020-04-27,276.0,9.5176,49.207,Öhringen,Hohenlohekreis
+291,1994-04-01,2012-10-01,11.0,8.1824,53.1763,Oldenburg,Oldenburg
+292,1982-07-01,2020-04-27,150.0,13.0928,51.296,Oschatz,Nordsachsen
+293,1951-01-01,2010-11-30,95.0,8.0534,52.2553,Osnabrück,Osnabrück
+294,1984-08-01,2020-04-27,246.0,11.9292,51.0873,Osterfeld,Burgenlandkreis
+295,2006-03-01,2020-04-27,312.0,10.2211,50.4538,"Ostheim v,d, Rhön",Rhön-Grabfeld
+296,2005-01-01,2020-04-27,886.0,10.3892,47.6362,Oy-Mittelberg-Petersthal,Oberallgäu
+297,2005-01-01,2020-04-27,549.0,11.6896,49.151,Parsberg/Oberpfalz-Eglwang,Neumarkt in der Oberpfalz
+298,2002-01-01,2020-04-27,2.0,10.8773,54.0893,Pelzerhaken,Ostholstein
+299,2004-09-01,2020-04-27,152.0,6.3789,49.5354,Perl-Nennig,Merzig-Wadern
+300,2005-09-01,2020-04-27,333.0,8.6973,48.9329,Pforzheim-Ispringen,Enzkreis
+301,2004-07-01,2020-04-27,630.0,9.2869,47.9344,Pfullendorf,Sigmaringen
+302,2004-10-01,2020-04-27,385.0,7.5879,49.1912,Pirmasens,Pirmasens
+303,1951-01-01,2020-04-27,386.0,12.13,50.4819,Plauen,Vogtlandkreis
+304,2005-03-01,2020-04-27,522.0,11.5357,49.4777,Pommelsbrunn-Mittelburg,Nürnberger Land
+305,1893-01-01,2020-04-27,81.0,13.0622,52.3813,Potsdam,Potsdam
+306,1982-01-01,2020-04-27,40.0,13.4771,54.3643,Putbus,Vorpommern-Rügen
+307,2006-12-01,2020-04-27,142.0,11.132,51.7953,Quedlinburg,Harz
+308,2007-03-01,2020-04-27,204.0,11.5412,51.3895,Querfurt-Mühle Lodersleben,Saalekreis
+309,1988-01-11,2020-04-27,11.0,9.8776,53.7331,Quickborn,Pinneberg
+310,2003-07-01,2020-04-27,41.0,8.5906,52.4461,Rahden-Kleinendorf,Minden-Lübbecke
+311,2004-06-01,2020-04-27,440.0,9.6206,47.8062,"Weingarten, Kr, Ravensburg",Ravensburg
+312,1948-01-01,2020-04-27,365.0,12.1019,49.0425,Regensburg,Regensburg
+313,2005-01-01,2020-04-27,350.0,7.6958,50.9906,Reichshof-Eckenhagen,Oberbergischer Kreis
+314,2011-02-01,2018-06-30,345.0,7.2505,51.18,Remscheid-Lennep,Remscheid
+315,2004-07-01,2020-04-27,478.0,8.924,48.7425,Renningen-Ihinger Hof,Böblingen
+316,2002-11-01,2020-04-27,131.0,7.9939,48.6703,Rheinau-Memprechtshofen,Ortenaukreis
+317,2002-01-01,2017-12-20,40.0,7.3866,52.2887,Rheine-Bentlage,Steinfurt
+318,2004-06-01,2020-04-27,282.0,7.7721,47.559,Rheinfelden,Lörrach
+319,2008-11-01,2020-04-27,116.0,8.3301,48.9726,Rheinstetten,Karlsruhe
+320,2004-08-01,2020-04-27,533.0,9.4596,48.1479,"Altheim, Kreis Biberach",Biberach
+321,2006-03-01,2020-04-27,442.0,12.128,47.8753,Rosenheim,Rosenheim
+322,1947-01-01,2020-04-27,4.0,12.0808,54.1803,Rostock-Warnemünde,Rostock
+323,2004-12-01,2020-04-27,32.0,9.3398,53.1288,Rotenburg (Wümme),Rotenburg (Wümme)
+324,2002-01-01,2020-04-27,386.0,11.1035,49.2162,Roth,Roth
+325,2005-01-01,2020-04-27,415.0,10.1732,49.3848,Rothenburg ob der Tauber,Ansbach
+326,2004-07-01,2020-04-27,588.0,8.6356,48.1814,Rottweil,Rottweil
+327,2005-03-01,2020-04-27,102.0,7.871,49.8502,"Kreuznach, Bad",Bad Kreuznach
+328,2005-03-01,2020-04-27,461.0,7.8837,49.6468,Ruppertsecken,Donnersbergkreis
+329,1962-05-01,2020-04-27,320.0,7.1077,49.2128,Saarbrücken-Ensheim,Regionalverband Saarbrücken
+330,2004-06-01,2020-04-27,248.0,9.071,48.9569,Sachsenheim,Ludwigsburg
+331,2006-01-01,2020-04-27,457.0,13.3146,48.7832,Saldenburg-Entschenreuth,Freyung-Grafenau
+332,1950-01-01,2020-04-27,135.0,8.7521,52.1042,"Salzuflen, Bad",Lippe
+333,2005-09-01,2020-04-27,518.0,10.0034,50.3518,Sandberg,Rhön-Grabfeld
+334,1999-12-01,2020-04-27,5.0,8.6031,54.3279,Sankt Peter-Ording,Nordfriesland
+335,2002-01-24,2020-04-27,155.0,8.9671,49.9195,Schaafheim-Schlierbach,Darmstadt-Dieburg
+336,1989-10-01,2020-04-27,609.0,10.6533,51.7658,Wernigerode-Schierke,Harz
+337,1989-08-01,2020-04-27,501.0,11.8041,50.5679,Schleiz,Saale-Orla-Kreis
+338,1951-01-01,2020-04-27,43.0,9.5487,54.5275,Schleswig,Schleswig-Flensburg
+339,2004-09-01,2020-04-27,230.0,9.5534,50.3447,Schlüchtern-Herolz,Main-Kinzig-Kreis
+340,2005-02-01,2017-03-03,296.0,10.4539,50.725,"Schmalkalden, Kurort",Schmalkalden-Meiningen
+341,1978-07-01,2020-04-27,937.0,10.7693,50.6546,Schmücke,Ilm-Kreis
+342,2004-08-01,2020-04-27,649.0,6.4194,50.2968,Schneifelforsthaus,Eifelkreis Bitburg-Prüm
+343,2007-07-01,2020-04-27,608.0,12.1435,50.2047,Selb/Oberfranken-Lauterbach,Wunsiedel im Fichtelgebirge
+344,2005-05-01,2020-04-27,398.0,12.6175,49.1644,Schorndorf-Knöbling,Cham
+345,2005-02-01,2020-04-27,265.0,9.1226,50.4925,Schotten,Vogelsbergkreis
+346,2005-12-01,2020-04-27,356.0,12.0871,49.3278,Schwandorf,Schwandorf
+347,2004-11-01,2020-04-27,277.0,11.1936,50.6441,Schwarzburg,Saalfeld-Rudolstadt
+348,1950-01-01,2020-04-27,59.0,11.3872,53.6425,Schwerin,Schwerin
+349,1976-10-01,2020-04-27,21.0,11.7297,52.8911,Seehausen,Stendal
+350,2004-11-01,2020-04-27,186.0,10.1885,51.904,Seesen,Goslar
+351,2008-03-01,2018-11-30,229.0,7.9966,50.8534,Siegen (Kläranlage),Siegen-Wittgenstein
+352,2002-11-01,2020-04-27,580.0,9.1942,48.0719,Sigmaringen-Laiz,Sigmaringen
+353,2005-05-01,2020-03-18,507.0,9.7404,47.5776,Sigmarszell-Zeisertsweiler,Lindau (Bodensee)
+354,2005-03-01,2020-04-27,358.0,13.0273,48.2718,Simbach/Inn,Rottal-Inn
+355,2011-11-01,2020-04-27,445.0,7.5981,49.9996,Simmern-Wahlbach,Rhein-Hunsrück-Kreis
+356,1966-01-01,2020-04-27,75.0,9.793,52.9604,Soltau,Heidekreis
+357,2004-11-01,2010-12-31,221.0,10.9059,51.352,Sondershausen,Kyffhäuserkreis
+358,2004-10-01,2020-04-27,265.0,9.9266,51.0607,Sontra,Werra-Meißner-Kreis
+359,2004-07-01,2020-04-27,1.0,8.8735,53.6946,"Steinau, Kr, Cuxhaven",Cuxhaven
+360,2004-09-01,2020-04-27,1.0,9.6097,53.5534,Mittelnkirchen-Hohenfelde,Stade
+361,2005-02-01,2020-04-27,504.0,10.8811,51.6646,Oberharz am Brocken-Stiege,Harz
+362,1948-01-01,2020-04-27,734.0,9.8648,48.6656,Stötten,Göppingen
+363,2005-07-01,2020-04-27,40.0,9.805,54.6654,Wagersrott,Schleswig-Flensburg
+364,1994-05-01,2020-04-27,351.0,12.5597,48.8275,Straubing,Straubing-Bogen
+365,1979-04-01,2013-05-14,224.0,9.2167,48.7896,Stuttgart (Neckartal),Stuttgart
+366,1977-07-01,2020-04-27,314.0,9.2,48.8281,Stuttgart (Schnarrenberg),Stuttgart
+367,1988-01-01,2020-04-27,371.0,9.2235,48.6883,Stuttgart-Echterdingen,Esslingen
+368,2002-11-01,2020-04-27,395.0,10.0228,50.639,Tann/Rhön,Fulda
+369,2005-03-01,2020-04-27,196.0,12.3419,50.9771,Starkenberg-Tegkwitz,Altenburger Land
+370,1973-01-01,2020-04-27,38.0,12.5574,53.761,Teterow,Rostock
+371,2004-07-01,2020-04-27,7.0,8.9857,53.2758,Worpswede-Hüttenbusch,Osterholz
+372,2005-11-01,2020-04-27,633.0,11.3889,50.4002,Teuschnitz,Kronach
+373,1969-01-01,2020-04-27,386.0,7.0386,49.4738,Tholey,St. Wendel
+374,2008-03-01,2020-04-27,501.0,12.3542,49.8576,Tirschenreuth-Lodermühl,Tirschenreuth
+375,1950-04-01,2011-03-31,202.0,6.0941,50.7827,Aachen,Städteregion Aachen
+376,2007-04-01,2020-04-27,44.0,8.237,52.9336,Großenkneten,Oldenburg
+377,2009-12-01,2020-01-02,759.0,8.9784,48.2156,Albstadt-Badkap,Zollernalbkreis
+378,2007-04-01,2020-04-27,340.0,13.0506,48.6159,Aldersbach-Kriestorf,Passau
+379,2004-11-01,2020-04-27,65.0,7.9126,52.4853,Alfhausen,Osnabrück
+380,2004-09-01,2020-04-27,300.0,9.345,50.7446,Alsfeld-Eifa,Vogelsbergkreis
+381,2019-04-09,2020-04-27,50.0,12.8518,52.9437,Neuruppin-Alt Ruppin,Ostprignitz-Ruppin
+382,2002-01-01,2020-04-27,32.0,8.1275,53.8633,Leuchtturm Alte Weser,
+383,1971-01-04,2020-04-27,756.0,10.8667,47.8342,Altenstadt,Weilheim-Schongau
+384,2004-11-01,2020-04-27,296.0,12.9326,51.0881,Geringswalde-Altgeringswalde,Mittelsachsen
+385,1982-01-01,2020-04-27,511.0,11.3117,48.406,Altomünster-Maisbrunn,Dachau
+386,2004-12-01,2020-04-27,37.0,6.4437,51.2897,Tönisvorst,Viersen
+387,2005-01-01,2020-04-27,10.0,12.7675,54.0661,Tribsees,Vorpommern-Rügen
+388,2008-06-01,2020-04-27,132.0,6.6131,49.7326,Trier-Zewen,Trier
+389,1941-01-01,2020-04-27,265.0,6.6582,49.7479,Trier-Petrisberg,Trier
+390,2002-01-01,2020-04-27,69.0,13.3039,53.5997,Trollenhagen,Mecklenburgische Seenplatte
+391,2006-04-01,2020-04-27,560.0,12.5396,48.0311,Trostberg,Traunstein
+392,2004-09-01,2020-04-27,295.0,8.9132,51.3344,Twistetal-Mühlhausen,Waldeck-Frankenberg
+393,1951-01-01,2020-04-27,1.0,14.0697,53.7444,Ueckermünde,Vorpommern-Greifswald
+394,2004-06-01,2020-04-27,50.0,10.5289,52.9414,Uelzen,Uelzen
+395,2005-01-01,2020-04-27,308.0,10.1916,49.5741,Gollhofen,Neustadt an der Aisch-Bad Windsheim
+396,1948-01-01,2014-09-01,567.0,9.9524,48.3837,Ulm,Ulm
+397,1989-01-01,2020-04-27,162.0,11.1759,52.1601,Ummendorf,Börde
+398,2004-08-01,2020-04-27,719.0,8.4608,48.0453,Villingen-Schwenningen,Schwarzwald-Baar-Kreis
+399,2004-06-01,2020-04-27,105.0,8.5374,49.2445,Waghäusel-Kirrlach,Karlsruhe
+400,2004-09-01,2020-04-27,176.0,9.5749,51.6194,Wesertal-Lippoldsberg,Kassel
+401,2007-03-01,2020-04-27,35.0,10.2267,53.9224,Wittenborn,Segeberg
+402,2004-07-01,2020-04-27,380.0,8.3607,50.2596,Waldems-Reinborn,Rheingau-Taunus-Kreis
+403,2006-08-01,2020-04-27,348.0,10.5484,50.8963,Waltershausen,Gotha
+404,2001-04-02,2020-04-27,236.0,9.1118,51.504,Warburg,Höxter
+405,1981-01-01,2020-04-27,73.0,12.6654,53.5196,Waren (Müritz),Mecklenburgische Seenplatte
+406,1948-01-01,2020-04-27,921.0,9.9428,50.4973,Wasserkuppe,Fulda
+407,1951-01-01,2020-04-27,440.0,12.1845,49.6663,Weiden,Weiden in der Oberpfalz
+408,1975-01-01,2020-04-27,477.0,11.6946,48.4025,Weihenstephan-Dürnast,Freising
+409,2007-06-01,2020-04-27,328.0,11.3544,51.0177,Weimar-Schöndorf,Weimar
+410,1954-01-01,2020-04-27,553.0,8.1213,49.3758,Weinbiet,Neustadt an der Weinstraße
+411,2004-09-01,2020-04-27,380.0,6.812,49.5534,Weiskirchen/Saar,Merzig-Wadern
+412,1955-01-01,2020-04-27,439.0,10.9308,49.0115,Weißenburg-Emetzheim,Weißenburg-Gunzenhausen
+413,1956-07-01,2012-09-21,1832.0,12.0119,47.7035,Wendelstein,Miesbach
+414,1948-01-01,2020-04-27,565.0,11.8761,50.3122,Hof,Hof
+415,1986-07-01,2020-04-27,187.0,12.4585,52.1207,Wiesenburg,Potsdam-Mittelmark
+416,2004-06-01,2020-04-27,570.0,8.6801,48.6516,Neubulach-Oberhaugstett,Calw
+417,1951-01-01,2020-04-27,105.0,12.6445,51.8892,Wittenberg,Wittenberg
+418,2002-01-01,2020-04-27,8.0,7.6672,53.5504,Wittmundhafen,Wittmund
+419,2004-11-01,2020-04-27,66.0,12.4949,53.1864,Wittstock-Rote Mühle,Ostprignitz-Ruppin
+420,2004-07-01,2020-04-27,291.0,8.2391,48.2953,Wolfach,Ortenaukreis
+421,2010-09-01,2020-04-27,82.0,10.6892,52.3962,Wolfsburg (Südwest),Wolfsburg
+422,2018-11-01,2020-04-27,880.0,8.1057,47.7003,Dachsberg-Wolpadingen,Waldshut
+423,2004-09-01,2020-04-27,88.0,8.3659,49.6051,Worms,Worms
+424,1948-01-01,2020-04-27,268.0,9.9576,49.7704,Würzburg,Würzburg
+425,2002-01-01,2020-04-27,57.0,9.4311,52.4605,Wunstorf,Region Hannover
+426,2006-09-01,2020-04-27,134.0,7.1052,51.2256,Wuppertal-Buchenhofen,Wuppertal
+427,2004-08-01,2020-04-27,398.0,8.3801,47.6783,Wutöschingen-Ofteringen,Waldshut
+428,1981-01-01,2020-04-27,51.0,13.3268,52.9664,Zehdenick,Oberhavel
+429,2006-03-01,2020-04-27,264.0,12.1495,51.0314,Zeitz,Burgenlandkreis
+430,1971-01-01,2020-04-27,877.0,13.7516,50.7314,Zinnwald-Georgenfeld,Sächsische Schweiz-Osterzgebirge
+431,1950-01-01,2020-04-27,2964.0,10.9847,47.4209,Zugspitze,
+432,2005-12-01,2020-04-27,353.0,12.4329,50.6878,Lichtentanne,Zwickau
+433,2002-01-01,2020-04-27,615.0,13.2385,49.028,Zwiesel,Regen
+434,2004-07-01,2019-07-09,40.0,8.6988,52.863,Bassum,Diepholz
+435,1997-07-09,2020-04-27,0.0,7.2287,53.3881,Emden,Emden
+436,1997-01-03,2020-04-27,476.0,13.3531,48.5451,Fürstenzell,Passau
+437,1998-12-01,2020-04-27,497.0,7.2645,49.9462,Hahn,Rhein-Hunsrück-Kreis
+438,1948-01-01,2020-04-27,98.0,8.5585,49.5062,Mannheim,Mannheim
+439,1996-01-01,2020-04-27,1.0,10.0238,54.641,Schönhagen (Ostseebad),Rendsburg-Eckernförde
+440,2007-03-01,2020-04-27,686.0,12.4698,47.6754,Reit im Winkl,Traunstein
+441,2004-05-01,2020-04-27,62.0,10.4704,53.2139,Wendisch Evern,Lüneburg
+442,2004-05-01,2020-04-27,14.0,9.8051,54.3194,Ostenfeld (Rendsburg),Rendsburg-Eckernförde
+443,2004-09-01,2020-04-27,50.0,14.3728,53.3837,Grambow-Schwennenz,Vorpommern-Greifswald
+444,2004-11-01,2020-04-27,290.0,14.4266,51.0593,Sohland/Spree,Bautzen
+445,2007-10-01,2020-04-27,8.0,8.0808,53.641,Wangerland-Hooksiel,Friesland
+446,2004-11-01,2020-04-27,455.0,10.6084,49.2247,Weidenbach-Weiherschneidbach,Ansbach
+447,2008-12-01,2020-04-27,8.0,7.3196,52.9542,Dörpen,Emsland
+448,2001-04-01,2020-04-27,27.0,10.3519,54.1654,Dörnick,Plön
+449,2004-06-01,2020-04-27,40.0,14.7254,52.0192,Coschen,Oder-Spree
+450,2000-04-01,2012-03-27,404.0,12.1743,48.7757,Mallersdorf-Pfaffenberg,Straubing-Bogen
+451,2004-08-01,2019-05-27,268.0,7.8651,50.1989,Nastätten,Rhein-Lahn-Kreis
+452,2002-01-01,2020-04-27,258.0,9.2709,51.8664,Lügde-Paenbruch,Lippe
+453,2004-10-01,2020-04-27,16.0,13.0418,54.2484,Steinhagen-Negast,Vorpommern-Rügen
+454,2004-10-01,2020-04-27,190.0,6.9351,49.2406,Saarbrücken-Burbach,Regionalverband Saarbrücken
+455,2003-01-01,2020-04-27,459.0,9.4409,47.6845,Friedrichshafen-Unterraderach,Bodenseekreis
+456,2004-06-01,2020-04-27,523.0,9.6032,49.021,Großerlach-Mannenweiler,Rems-Murr-Kreis
+457,2002-12-01,2020-04-27,385.0,9.704,49.3328,Ingelfingen-Stachenhausen,Hohenlohekreis
+458,2002-11-01,2020-04-27,413.0,9.8737,48.7695,Schwäbisch Gmünd-Weiler,Ostalbkreis
+459,2004-07-01,2020-04-27,445.0,8.8219,47.7738,Singen,Konstanz
+460,2004-06-01,2020-04-27,457.0,8.65,51.414,Brilon-Thülen,Hochsauerlandkreis
+461,2004-05-01,2020-04-27,36.0,12.3867,52.3613,Wusterwitz,Potsdam-Mittelmark
+462,2004-09-01,2020-04-27,112.0,10.9626,52.0304,Huy-Pabstorf,Harz
+463,2004-10-01,2020-04-27,283.0,10.2518,50.8426,Moorgrund Gräfen-Nitzendorf,Wartburgkreis
+464,2004-06-01,2020-04-27,36.0,11.8551,52.5075,Demker,Stendal
+465,2004-07-01,2020-04-27,325.0,9.4627,48.6705,Notzingen,Esslingen
+466,2004-12-01,2020-04-27,193.0,10.4978,51.2061,Mühlhausen/Thüringen-Görmar,Unstrut-Hainich-Kreis
+467,2004-08-01,2020-04-27,1.0,13.8239,54.1049,Karlshagen,Vorpommern-Greifswald
+468,2004-11-01,2020-04-27,362.0,10.6418,49.5314,Markt Erlbach-Mosbach,Neustadt an der Aisch-Bad Windsheim
+469,2005-11-01,2020-04-27,288.0,9.654,50.0132,Lohr/Main-Halsbach,Main-Spessart
+470,2004-08-01,2020-04-27,59.0,7.5194,51.7663,Lüdinghausen-Brochtrup,Coesfeld
+471,2004-12-01,2020-04-27,168.0,8.1423,50.394,Runkel-Ennerich,Limburg-Weilburg
+472,2005-02-01,2020-04-27,531.0,11.2035,48.207,Maisach-Galgen,Fürstenfeldbruck
+473,2005-03-01,2020-04-27,304.0,10.2972,50.0579,Schonungen-Mainberg,Schweinfurt
+474,2005-02-01,2020-04-27,429.0,11.8493,48.702,Elsendorf-Horneck,Kelheim
+475,2004-11-01,2020-04-27,187.0,10.3966,52.0111,Liebenburg-Othfresen,Goslar
+476,2005-06-01,2020-04-27,719.0,12.6548,47.835,Siegsdorf-Höll,Traunstein
+477,2006-09-01,2020-04-27,105.0,8.4565,52.0714,Bielefeld-Deppendorf,Bielefeld
+478,2004-12-01,2020-04-27,193.0,9.4063,49.7636,Freudenberg/Main-Boxtal,Main-Tauber-Kreis
+479,2005-07-01,2020-04-27,5.0,9.0425,54.5268,Hattstedt,Nordfriesland
+480,2005-03-01,2020-04-27,435.0,10.7393,48.7374,Donauwörth-Osterweiler,Donau-Ries
+481,2005-09-01,2020-04-27,160.0,11.3321,51.1507,Olbersleben,Sömmerda
+482,2005-11-01,2020-04-27,465.0,12.2863,50.5467,Treuen,Vogtlandkreis
+483,2003-09-10,2020-04-27,85.0,7.8879,51.5763,Werl,Soest
+484,1951-01-01,2020-04-27,233.0,10.7686,51.8454,Wernigerode,Harz
+485,1996-05-31,2020-04-27,3.0,11.0606,54.5283,Fehmarn,Ostholstein
+486,2005-01-01,2020-04-27,550.0,11.1576,47.8827,"Wielenbach (Demollstr,)",Weilheim-Schongau
+487,2005-10-01,2020-04-27,159.0,7.978,51.4633,Arnsberg-Neheim,Hochsauerlandkreis
+488,2005-09-01,2020-04-27,468.0,10.2674,48.6099,Hermaringen-Allewind,Heidenheim
+489,2005-07-16,2020-04-27,119.0,8.7862,50.09,Offenbach-Wetterpark,Offenbach am Main
+490,2006-04-01,2020-04-27,688.0,13.4816,50.6199,Deutschneudorf-Brüderwiese,Erzgebirgskreis
+491,2006-08-01,2020-04-21,585.0,12.8231,49.1088,Prackenbach-Neuhäusl,Regen
+492,2005-09-08,2020-04-27,116.0,13.4175,53.3175,Feldberg/Mecklenburg,Mecklenburgische Seenplatte
+493,2007-01-01,2020-04-27,74.0,12.3042,51.682,Jeßnitz,Anhalt-Bitterfeld
+494,2007-12-01,2020-04-27,144.0,9.8072,51.9643,Alfeld,Hildesheim
+495,2007-11-01,2020-04-27,312.0,10.3621,51.0007,Eisenach,Eisenach
+496,2007-11-01,2020-04-27,475.0,10.3662,49.1623,Feuchtwangen-Heilbronn,Ansbach
+497,2006-12-11,2020-04-27,499.0,12.6838,49.391,Waldmünchen,Cham
+498,2006-03-01,2020-04-27,3.0,6.7024,53.5984,Borkum-Flugplatz,Leer
+499,2006-03-01,2020-04-27,46.0,6.941,52.0814,Ahaus,Borken
+500,2006-12-01,2020-04-27,82.0,13.8427,52.7461,Heckelberg,Märkisch-Oderland
+501,2010-01-01,2020-04-27,116.0,14.2533,51.4493,Hoyerswerda,Bautzen
+502,2006-06-01,2020-04-27,622.0,11.9745,50.0315,Wunsiedel-Schönbrunn,Wunsiedel im Fichtelgebirge
+503,2007-12-01,2020-04-27,351.0,12.5388,48.6595,Gottfrieding,Dingolfing-Landau
+504,2008-05-01,2020-04-27,743.0,9.2247,50.5084,Hoherodskopf/Vogelsberg,Vogelsbergkreis
+505,2007-03-30,2020-04-27,672.0,10.0324,47.7955,Leutkirch-Herlazhofen,Ravensburg
+506,2011-02-01,2020-04-27,350.0,9.0224,50.7513,Neu-Ulrichstein,Vogelsbergkreis
+507,2006-10-01,2020-04-27,340.0,9.4238,50.0083,Neuhütten/Spessart,Main-Spessart
+508,2006-12-01,2020-04-27,389.0,12.0756,50.661,Langenwetzendorf-Göttendorf,Greiz
+509,2007-04-01,2020-04-27,246.0,11.7112,51.1044,Naumburg/Saale-Kreipitzsch,Burgenlandkreis
+510,2006-12-01,2020-04-27,457.0,12.9073,47.7724,Piding,Berchtesgadener Land
+511,2007-09-01,2020-04-27,17.0,9.9255,54.0188,Padenstedt (Pony-Park),Rendsburg-Eckernförde
+512,2007-05-01,2020-04-27,397.0,10.8156,50.4167,Veilsdorf,Hildburghausen
+513,2004-08-01,2020-04-27,263.0,8.317,50.132,Wiesbaden-Auringen,Wiesbaden
+514,2007-11-01,2020-04-27,604.0,11.5524,48.013,Oberhaching-Laufzorn,München
+515,2007-05-01,2020-04-27,72.0,10.6627,52.6423,Wittingen-Vorhop,Gifhorn
+516,2007-06-01,2020-04-27,24.0,6.7018,51.5088,Duisburg-Baerl,Duisburg
+517,2007-08-01,2020-04-27,237.0,8.9053,49.2943,Waibstadt,Rhein-Neckar-Kreis
+518,2007-11-01,2020-04-27,77.0,9.4077,52.0818,Hameln-Hastenbeck,Hameln-Pyrmont
+519,2007-12-01,2020-04-27,60.0,7.4049,51.5966,Waltrop-Abdinghof,Recklinghausen
+520,2008-05-01,2020-04-27,205.0,7.3411,51.3329,Gevelsberg-Oberbröking,Ennepe-Ruhr-Kreis
+521,2008-04-01,2020-04-27,490.0,12.2576,48.5734,Landshut-Reithof,Landshut
+522,2007-12-01,2020-04-27,289.0,11.515,50.682,Krölpa-Rockendorf,Saale-Orla-Kreis
+523,2007-11-01,2020-04-27,386.0,7.6289,51.0899,Meinerzhagen-Redlendorf,Märkischer Kreis
+524,2008-03-01,2011-01-04,85.0,9.9524,52.1789,Hildesheim-Drispenstedt,Hildesheim
+525,2008-06-01,2020-04-27,110.0,10.9592,52.2467,Helmstedt-Emmerstedt,Helmstedt
+526,2008-09-15,2010-04-26,3.0,6.3333,55.0,Nordseeboje 2,
+527,2008-12-01,2020-04-27,619.0,8.8134,48.2639,Balingen-Bronnhaupten,Zollernalbkreis
+528,2011-04-01,2020-04-27,231.0,6.0244,50.7983,Aachen-Orsbach,Städteregion Aachen
+529,2013-11-01,2020-04-27,317.0,9.359,51.2835,Schauenburg-Elgershausen,Kassel
+530,2014-09-01,2020-04-27,593.0,9.9216,48.4418,Ulm-Mähringen,Alb-Donau-Kreis
+531,2016-05-01,2020-04-27,816.0,10.5848,47.8761,Kaufbeuren-Oberbeuren,Kaufbeuren
