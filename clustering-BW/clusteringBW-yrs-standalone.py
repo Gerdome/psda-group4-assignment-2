@@ -37,9 +37,21 @@ def tdist(x, y):
 def flexdist(x, y):
   return dist.euclidean(x[0:2], y[0:2]) + tdist(x[2:], y[2:])
 
+WHOLE_YEAR = "year"
+SUMMER = "summer"
+WINTER = "winter"
 
-def clusterForYear(yearStr):
-    query = "SELECT stations_id, AVG(temperature_day), stddev(temperature_day) FROM air_temperature_values as vals WHERE vals.messdatum_date >= date('" + yearStr + "-01-01') AND vals.messdatum_date <= date('" + yearStr + "-12-31') GROUP BY stations_id"
+def clusterForYear(yearStr, season=WHOLE_YEAR):
+    # Build query depending on season seleced
+    query = "SELECT stations_id, AVG(temperature_day), stddev(temperature_day) FROM air_temperature_values as vals "
+    if season == WHOLE_YEAR:
+        query += "WHERE vals.messdatum_date >= date('" + yearStr + "-01-01') AND vals.messdatum_date <= date('" + yearStr + "-12-31') GROUP BY stations_id"
+    elif season == SUMMER:
+        query += "WHERE vals.messdatum_date >= date('" + yearStr + "-06-01') AND vals.messdatum_date <= date('" + yearStr + "-08-31') GROUP BY stations_id"
+    elif season == WINTER:
+        query += "WHERE vals.messdatum_date >= date('" + yearStr + "-11-01') AND vals.messdatum_date <= date('" + str(int(yearStr) + 1) + "-03-01') GROUP BY stations_id"
+
+    # Get data
     temp_data = pd.read_sql(query, connection, parse_dates=['messdatum_date'], index_col='stations_id')
 
     df = stations.join(temp_data)
@@ -78,5 +90,6 @@ def clusterForYear(yearStr):
     plt.savefig('output/clustersBW-' + yearStr + '.png')
 
 
-for i in range(2010, 2020):
+# Perform clustering and save output for several years
+for i in range(2010, 2019 + 1):
     clusterForYear(str(i))
