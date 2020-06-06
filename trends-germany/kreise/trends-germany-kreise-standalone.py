@@ -13,7 +13,7 @@ import folium
 import selenium.webdriver   # For generating screenshots of HTML files
 
 # Configuration
-FROM_YEAR = 2019
+FROM_YEAR = 2010
 TO_YEAR = 2019
 
 OUT_DIR = "output"
@@ -122,7 +122,7 @@ def analyseForYear(yearStr, monthStr="", dayStr=""):
         line_opacity=0.2,
         legend_name='Temperatur (Grad Celsius)',
         highlight=True,
-        # threshold_scale=[0, 6, 8, 10, 12, 14]
+        # threshold_scale=[0, 6, 8, 10, 12, 14]         # comment out for relative dynamic scale
     ).add_to(m)
 
     # Add station markers from GeoPandas data frame
@@ -156,10 +156,11 @@ def renderHTML(htmlFilePath):
 
 # Analyse and save HTML files of maps
 for i in range(FROM_YEAR, TO_YEAR + 1):
-    for m in range(1, 4):
-        daysInMonth = monthrange(i, m)[1]
-        for d in range(1, daysInMonth + 1, 5):
-            analyseForYear(str(i), monthStr=str(m), dayStr=str(d))
+    #for m in range(1, 4):
+        #daysInMonth = monthrange(i, m)[1]
+        #for d in range(1, daysInMonth + 1, 5):
+            #analyseForYear(str(i), monthStr=str(m), dayStr=str(d))
+    analyseForYear(str(i))
 
 # Now render the HTML files to PNGs
 print("Rendering the HTML maps to PNGs...")
