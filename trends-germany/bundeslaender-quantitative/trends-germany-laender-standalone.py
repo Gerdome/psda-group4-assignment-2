@@ -19,11 +19,14 @@ TO_YEAR = 2019
 xAxis = []  # e.g. the dates
 seriesNames = []
 series = [] # List of lists
+seriesChange = []   # List of lists
 averagedSeries = []     # Only a list, contains averages of all series
 medianSeries = []       # Only a list, contains medians of all series
 maxSeries = []          # "
 minSeries = []          # "
 stdDev = []             # "
+
+
 
 def analyseForYear(yearStr, monthStr="", dayStr=""):
     print(yearStr)
@@ -59,7 +62,8 @@ def analyseForYear(yearStr, monthStr="", dayStr=""):
             name = vals['bundesland']
             
             seriesNames.append(name)
-            series.append(list())   # Also append an empty list for series data
+            series.append(list())           # Also append an empty list for series data
+            seriesChange.append(list())     # "
 
     # Save the time reference for the current query
     if monthStr != "":
@@ -103,6 +107,15 @@ def plotAnalysis():
     plt.legend(loc="lower right", fontsize="small")
     plt.show()
 
+    i = 0
+    for s in seriesChange:
+        plt.plot(xAxis[1:], s, label=seriesNames[i])
+        i += 1
+
+    plt.title("Veränderung der durchschnittl. Temp. in den Bundesländern [°C]")
+    plt.legend(loc="upper right", fontsize="small")
+    plt.show()
+
 # Analyse and save results for each time slice
 for i in range(FROM_YEAR, TO_YEAR + 1):
     #for m in range(1, 12 + 1):
@@ -110,7 +123,7 @@ for i in range(FROM_YEAR, TO_YEAR + 1):
         #for d in range(1, daysInMonth + 1):
     analyseForYear(str(i))
 
-# Calculate average and median
+# Calculate average and median etc.
 for i in range(len(series[0])):
     sum = 0.0
     vals = []
@@ -122,6 +135,11 @@ for i in range(len(series[0])):
     minSeries.append(min(vals))
     maxSeries.append(max(vals))
     stdDev.append(statistics.stdev(vals))
+
+    for j in range(len(seriesNames)):
+        if i > 0:   # Only starting from the second value
+            change = series[j][i] - series[j][i - 1]
+            seriesChange[j].append(change)
 
 # Now plot all results
 plotAnalysis()
@@ -140,9 +158,6 @@ for i in range(len(series[0])):
 
         if s[i] == minSeries[i]:
             rankingLosers[-1].append((seriesNames[j], maxSeries[i]))
-
-print(rankingWinners)
-print(rankingLosers)
 
 rankingWinnerCounts = []
 rankingLoserCounts = []
