@@ -126,5 +126,69 @@ for i in range(len(series[0])):
 # Now plot all results
 plotAnalysis()
 
+# Perform ranking regarding max and min temperature
+rankingWinners = [] # List of lists for the years, may be more than one winner!
+rankingLosers = []
+for i in range(len(series[0])):
+    rankingWinners.append(list())
+    rankingLosers.append(list())
+
+    for j in range(len(series)):
+        s = series[j]
+        if s[i] == maxSeries[i]:
+            rankingWinners[-1].append((seriesNames[j], maxSeries[i]))
+
+        if s[i] == minSeries[i]:
+            rankingLosers[-1].append((seriesNames[j], maxSeries[i]))
+
+print(rankingWinners)
+print(rankingLosers)
+
+rankingWinnerCounts = []
+rankingLoserCounts = []
+for s in seriesNames:
+    rankingWinnerCounts.append(0)
+    rankingLoserCounts.append(0)
+
+for l in rankingWinners:
+    for p in l:
+        name = p[0]
+        temp = p[1]
+
+        index = seriesNames.index(name)
+        rankingWinnerCounts[index] += 1
+
+for l in rankingLosers:
+    for p in l:
+        name = p[0]
+        temp = p[1]
+
+        index = seriesNames.index(name)
+        rankingLoserCounts[index] += 1
+
+# Remove zero entries
+seriesNamesWinners = []
+countWinners = []
+
+seriesNamesLosers = []
+countLosers = []
+for i in range(len(seriesNames)):
+    if rankingWinnerCounts[i] != 0:
+        seriesNamesWinners.append(seriesNames[i])
+        countWinners.append(rankingWinnerCounts[i])
+
+    if rankingLoserCounts[i] != 0:
+        seriesNamesLosers.append(seriesNames[i])
+        countLosers.append(rankingLoserCounts[i])
+
+# Plot as histograms
+plt.bar(seriesNamesWinners, countWinners)
+plt.title("Ranking der höchsten durchschnittlichen Temperaturen von 2010 bis 2019")
+plt.show()
+
+# Plot as histograms
+plt.bar(seriesNamesLosers, countLosers)
+plt.title("Ranking der niedrigsten durchschnittlichen Temperaturen von 2010 bis 2019")
+plt.show()
 
     
