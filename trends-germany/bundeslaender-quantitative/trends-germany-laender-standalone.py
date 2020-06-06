@@ -10,6 +10,8 @@ import geopandas as gpd
 
 import matplotlib.pyplot as plt
 
+import statistics
+
 # Configuration
 FROM_YEAR = 2010
 TO_YEAR = 2019
@@ -17,7 +19,10 @@ TO_YEAR = 2019
 xAxis = []  # e.g. the dates
 seriesNames = []
 series = [] # List of lists
-averagedSeries = []     # Only a list, contains averages of all series 
+averagedSeries = []     # Only a list, contains averages of all series
+medianSeries = []       # Only a list, contains medians of all series
+maxSeries = []          # "
+minSeries = []          # "
 
 def analyseForYear(yearStr, monthStr="", dayStr=""):
     print(yearStr)
@@ -89,7 +94,10 @@ def plotAnalysis():
     plt.show()
 
     plt.plot(xAxis, averagedSeries, label="Durchschnitt aller Bundesländer")
-    plt.title("Durchschnittliche Temperatur in den Bundesländern [°C]")
+    plt.plot(xAxis, medianSeries, label="Median aller Bundesländer")
+    plt.plot(xAxis, minSeries, label="Minimum aller Bundesländer", linestyle='--')
+    plt.plot(xAxis, maxSeries, label="Maximum aller Bundesländer", linestyle='--')
+    plt.title("Aggergierte Temperatur aller Bundesländer [°C]")
     plt.legend(loc="lower right", fontsize="small")
     plt.show()
 
@@ -100,12 +108,17 @@ for i in range(FROM_YEAR, TO_YEAR + 1):
         #for d in range(1, daysInMonth + 1):
     analyseForYear(str(i))
 
-# Calculate average
+# Calculate average and median
 for i in range(len(series[0])):
     sum = 0.0
+    vals = []
     for s in series:
         sum += s[i]
+        vals.append(s[i])
     averagedSeries.append(sum / float(len(series)))
+    medianSeries.append(statistics.median(vals))
+    minSeries.append(min(vals))
+    maxSeries.append(max(vals))
 
 # Now plot all results
 plotAnalysis()
