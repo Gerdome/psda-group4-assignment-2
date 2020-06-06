@@ -14,7 +14,7 @@ import urllib
 import selenium.webdriver   # For generating screenshots of HTML files
 
 # Configuration
-FROM_YEAR = 2010
+FROM_YEAR = 2019
 TO_YEAR = 2019
 
 OUT_DIR = "output"
@@ -91,19 +91,18 @@ def renderHTML(htmlFilePath):
     path = path.replace(" ", "%20")
     print(path)
     driver.get(path)
-    time.sleep(5)   # Wait for HTML to render in browser
+    time.sleep(1)   # Wait for HTML to render in browser
 
     dirPath = os.path.dirname(htmlFilePath)
     filenameNoExt = os.path.basename(htmlFilePath).split(".")[0]   # This assumes there is only one dot in filename!
     driver.save_screenshot(dirPath + "/" + filenameNoExt + '.png')
 
 # Analyse and save HTML files of maps
-for i in range(FROM_YEAR, TO_YEAR + 1):
-    #for m in range(1, 4):
-        #daysInMonth = monthrange(i, m)[1]
-        #for d in range(1, daysInMonth + 1, 5):
-            #analyseForYear(str(i), monthStr=str(m), dayStr=str(d))
-    analyseForYear(str(i))
+# for i in range(FROM_YEAR, TO_YEAR + 1):
+#    for m in range(1, 12 + 1):
+#         daysInMonth = monthrange(i, m)[1]
+#         for d in range(1, daysInMonth + 1):
+#             analyseForYear(str(i), monthStr=str(m), dayStr=str(d))
 
 # Now render the HTML files to PNGs
 print("Rendering the HTML maps to PNGs...")
