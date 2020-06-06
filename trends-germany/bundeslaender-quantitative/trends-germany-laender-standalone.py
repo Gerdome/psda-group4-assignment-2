@@ -23,6 +23,7 @@ averagedSeries = []     # Only a list, contains averages of all series
 medianSeries = []       # Only a list, contains medians of all series
 maxSeries = []          # "
 minSeries = []          # "
+stdDev = []             # "
 
 def analyseForYear(yearStr, monthStr="", dayStr=""):
     print(yearStr)
@@ -97,6 +98,7 @@ def plotAnalysis():
     plt.plot(xAxis, medianSeries, label="Median aller Bundesländer")
     plt.plot(xAxis, minSeries, label="Minimum aller Bundesländer", linestyle='--')
     plt.plot(xAxis, maxSeries, label="Maximum aller Bundesländer", linestyle='--')
+    #plt.plot(xAxis, stdDev, label="Standardabweichung", linestyle=':')
     plt.title("Aggergierte Temperatur aller Bundesländer [°C]")
     plt.legend(loc="lower right", fontsize="small")
     plt.show()
@@ -119,6 +121,7 @@ for i in range(len(series[0])):
     medianSeries.append(statistics.median(vals))
     minSeries.append(min(vals))
     maxSeries.append(max(vals))
+    stdDev.append(statistics.stdev(vals))
 
 # Now plot all results
 plotAnalysis()
