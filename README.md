@@ -5,4 +5,10 @@
 - Einmalig db.py setup aufrufen, um die notwendigen Views in der DB anzulegen.
 
 # Inhalte
-...
+## Database connection
+Wir haben die zugrundeliegende Daten (DWD-Daten) auf einem separaten Cloudserver
+## Pre Processing
+
+## Data Exploration
+
+## Data Clustering
