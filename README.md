@@ -11,9 +11,9 @@ Wir haben die zugrundeliegende Daten (DWD-Daten aggregiert auf Tageslevel) auf e
 - Zugehörigkeit der einzelnen Wetterstationen zu Land/Stadtkreise & Bevölkerung der einzelnen Kreise bestimmen: [Pre-Processing Notebook](https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/blob/master/Pre-Processing.ipynb)
 
 ## Data Exploration
-- Visualisierung der Wetterstationen + Landkreise in interaktiver Map mittels Folium: [Visualisierungs-Notebooks] (https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/visualization-tests)
-- Visualisierung der Temperaturdaten auf Landeskreisebene: [Temperature Kreise] (https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/temperature-kreise)
-- Visualisierung der zeitlichen Verläufe und Erstellung von Videos zur Übersicht der zeitlichen Verläufe: [Trends Notebooks] (https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/trends-germany)
+- Visualisierung der Wetterstationen + Landkreise in interaktiver Map mittels Folium: [Visualisierungs-Notebooks](https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/visualization-tests)
+- Visualisierung der Temperaturdaten auf Landeskreisebene: [Temperature Kreise](https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/temperature-kreise)
+- Visualisierung der zeitlichen Verläufe und Erstellung von Videos zur Übersicht der zeitlichen Verläufe: [Trends Notebooks](https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/trends-germany)
 Anmerkung: Um Videos zu erstellen, benötigt man FFMPEG und IMAGEMAGICK.
 
 ## Data Clustering
