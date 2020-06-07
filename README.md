@@ -17,3 +17,5 @@ Wir haben die zugrundeliegende Daten (DWD-Daten aggregiert auf Tageslevel) auf e
 Anmerkung: Um Videos zu erstellen, benötigt man FFMPEG und IMAGEMAGICK.
 
 ## Data Clustering
+- Clustering.ipyn enthält die Clustering-Verfahren mit Korrelation und Cosine-Distanz
+- Clustering Legacy Ordner enthält ein frühes Clustering Verfahren und wurde nach der Exploration nicht weiter bearbeitet. Bitte für die aktuellen Verfahren statdessen das Notebook anschauen.
