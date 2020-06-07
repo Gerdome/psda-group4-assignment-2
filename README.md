@@ -6,10 +6,15 @@
 
 # Inhalte
 ## Database connection
-Wir haben die zugrundeliegende Daten (DWD-Daten) auf einem separaten Cloudserver
+Wir haben die zugrundeliegende Daten (DWD-Daten aggregiert auf Tageslevel) auf einem separaten Cloudserver gehostet und stellen die Verbindung in den jeweiligen Skripten bzw. Notebooks her.
 ## Pre Processing
 - Zugehörigkeit der einzelnen Wetterstationen zu Land/Stadtkreise & Bevölkerung der einzelnen Kreise bestimmen: [Pre-Processing Notebook](https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/blob/master/Pre-Processing.ipynb)
 
 ## Data Exploration
+- Visualisierung der Wetterstationen + Landkreise in interaktiver Map mittels Folium: [Visualisierungs-Notebooks] (https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/visualization-tests)
+- Visualisierung der Temperaturdaten auf Landeskreisebene: [Temperature Kreise] (https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/temperature-kreise)
+- Visualisierung der zeitlichen Verläufe: [Trends Notebooks] (https://git.scc.kit.edu/ubelj/psda-group-4-assignment-2/-/tree/master/trends-germany)
+- Erstellung von Videos zur Übersicht der zeitlichen Verläufe: 
+
 
 ## Data Clustering
