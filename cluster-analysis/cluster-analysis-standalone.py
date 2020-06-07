@@ -71,6 +71,9 @@ def analyseForYear(yearStr, monthStr="", dayStr=""):
 
     # Now group by cluster id and average cluster temps
     joined = joined[['avg_temp', 'cluster']].groupby(['cluster']).mean()
+    
+    # Drop the noise class -1
+    joined = joined.drop(labels=-1)
 
     # Add all Cluster to the seriesNames on the first call to this function
     if len(seriesNames) == 0:
@@ -120,7 +123,7 @@ def plotAnalysis():
     plt.plot(xAxis, medianSeries, label="Median aller Cluster")
     plt.plot(xAxis, minSeries, label="Minimum aller Cluster", linestyle='--')
     plt.plot(xAxis, maxSeries, label="Maximum aller Cluster", linestyle='--')
-    #plt.plot(xAxis, stdDev, label="Standardabweichung", linestyle=':')
+    plt.plot(xAxis, stdDev, label="Standardabweichung", linestyle=':')
     plt.title("Aggergierte Temperatur aller Cluster [°C]")
     plt.legend(loc="lower right", fontsize="small")
     plt.show()
@@ -140,6 +143,7 @@ for i in range(FROM_YEAR, TO_YEAR + 1):
         #daysInMonth = monthrange(i, m)[1]
         #for d in range(1, daysInMonth + 1):
     analyseForYear(str(i))
+
 
 # Calculate average and median etc.
 print(seriesNames)
