@@ -11,7 +11,7 @@ import geopandas as gpd
 import folium
 
 import urllib
-import selenium.webdriver   # For generating screenshots of HTML files
+#import selenium.webdriver   # For generating screenshots of HTML files
 
 # Configuration
 FROM_YEAR = 2019
@@ -80,36 +80,36 @@ def analyseForYear(yearStr, monthStr="", dayStr=""):
 
     m.save(OUT_DIR + "/temps-" + fileName + ".html")
 
-def setupRenderer():
-    global driver
+# def setupRenderer():
+#     global driver
 
-    driver = selenium.webdriver.Safari()    # You need to set *your browser* supporting webdriver here!
-    driver.set_window_size(900, 750)
+#     driver = selenium.webdriver.Safari()    # You need to set *your browser* supporting webdriver here!
+#     driver.set_window_size(900, 750)
 
-def renderHTML(htmlFilePath):
-    path = 'file://' + os.getcwd() + "/" + htmlFilePath
-    path = path.replace(" ", "%20")
-    print(path)
-    driver.get(path)
-    time.sleep(1)   # Wait for HTML to render in browser
+# def renderHTML(htmlFilePath):
+#     path = 'file://' + os.getcwd() + "/" + htmlFilePath
+#     path = path.replace(" ", "%20")
+#     print(path)
+#     driver.get(path)
+#     time.sleep(1)   # Wait for HTML to render in browser
 
-    dirPath = os.path.dirname(htmlFilePath)
-    filenameNoExt = os.path.basename(htmlFilePath).split(".")[0]   # This assumes there is only one dot in filename!
-    driver.save_screenshot(dirPath + "/" + filenameNoExt + '.png')
+#     dirPath = os.path.dirname(htmlFilePath)
+#     filenameNoExt = os.path.basename(htmlFilePath).split(".")[0]   # This assumes there is only one dot in filename!
+#     driver.save_screenshot(dirPath + "/" + filenameNoExt + '.png')
 
 # Analyse and save HTML files of maps
-# for i in range(FROM_YEAR, TO_YEAR + 1):
+for i in range(FROM_YEAR, TO_YEAR + 1):
 #    for m in range(1, 12 + 1):
 #         daysInMonth = monthrange(i, m)[1]
 #         for d in range(1, daysInMonth + 1):
-#             analyseForYear(str(i), monthStr=str(m), dayStr=str(d))
+    analyseForYear(str(i))
 
 # Now render the HTML files to PNGs
-print("Rendering the HTML maps to PNGs...")
-setupRenderer()
-for fileName in os.listdir(OUT_DIR):
-    if fileName.endswith(".html"):
-        print(fileName)
-        renderHTML(os.path.join(OUT_DIR, fileName))
+# print("Rendering the HTML maps to PNGs...")
+# setupRenderer()
+# for fileName in os.listdir(OUT_DIR):
+#     if fileName.endswith(".html"):
+#         print(fileName)
+#         renderHTML(os.path.join(OUT_DIR, fileName))
 
     
