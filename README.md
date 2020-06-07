@@ -3,6 +3,7 @@
 # Setup
 - Zugangsdaten zur Datenbank in db.py eintragen
 - Einmalig db.py setup aufrufen, um die notwendigen Views in der DB anzulegen.
+- Zum erstellen von Kartenrenderings, bei Bedarf eigenen Selenium Webdriver eintragen
 
 # Inhalte
 ## Database connection
